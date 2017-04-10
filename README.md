@@ -8,7 +8,7 @@ Methods
 
 Measurements
 
-Metrics
+[Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)
 
 File List
 
