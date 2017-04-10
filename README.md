@@ -1,4 +1,4 @@
-CHaMP Management and Maintenance
+
 
 Designs
 
@@ -16,19 +16,13 @@ Models
 
 Data Flow
 
-2011-2015
-2016
 Equipment
 
 Toolbar
 
 Survey Data Format
 
-QA Process
-
-QA notes
-
-QA plots
+QA (Process, notes, plots)
 
 Final datasets
 
