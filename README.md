@@ -2,36 +2,93 @@
 
 [Designs](Designs.md)
 
-[Protocols]:
-Dropbox
+Protocols and Methods:
+
+List of protocols (boyd and sarah)
+-main protocol
+-total station protocol
+-scouting/supervisor manual
+-study design  
+-macroinbrate
+
+Dropbox or Egnyte?
 word and pdf doc for each year: Sarah (training version, final version)
-change log (stored?) for each each year: Andy 
+change log (stored?) for each each year: (Andy's table)
+change rationale documents (Jeremiah)
+(macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
 
-Methods
+Measurements (andy and J)
+Data Dictionary 
 
 
-Measurements
+[Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki) (boyd, jeremiah, andy, carol)
+Data Dictionary (y by y)
+Performance (variance decomposition)
+Utility-which metrics are used by other models? 
+Validation (what validates)
 
-[Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)
 
-File List
+File List (carol, andy, jeremiah)
+-custody form
+-files and packages
+-temp files (air, stream, hobo)
+-survey files (total station), survey files
+-processed data files 
+-sun eye files
+-scanned forms
+-QA files
 
-Models
+Models (boyd)
+sites
+network
 
-Data Flow
+Data Flow (carol)
+-data management plan
+-workflow diagram
 
-Equipment
+Data Processing (fortney)
+-Toolbar/survey gdb
+-sun eye photos
+-hoboware
+-QA protocols
 
-Toolbar
+Equipment (boyd)
+-equipment lists 
+-total station stuff
+-manuals
+-sun eye
+-purchasing?
+-ipad vs. data logger
 
-Survey Data Format
 
-QA (Process, notes, plots)
+Data Broker (Sitka)
+-manual
+-download location
 
-Final datasets
+Topo Toolbar (carol)
+-website
+-code
+-processing outline
 
-Reports
+Survey Data Format (formerly known as survey gdbs)
+-structure year by year
 
-Training
+Accessory software (carol)
+-harold (gdb exporter)
+-CAD file generator
+
+QA (Process, notes, plots) (carol)
+-data flow
+-Validation
+
+Final datasets (each year, or at least a final data set that covers all years)
+-carol (jeremiah and andy)
+
+Reports (sarah)
+
+Training (sarah)
 
 Presentations
+workshop materials 
+-exercises and presentations (Andy Steve 2016) 
+-exercises and presentations (2015-boyd and andy)
