@@ -2,7 +2,7 @@
 
 [Designs](Designs.md)
 
-[Protocols](www.isemp.org):
+[Protocols]:
 Dropbox
 word and pdf doc for each year: Sarah (training version, final version)
 change log (stored?) for each each year: Andy 
