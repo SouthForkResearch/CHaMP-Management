@@ -10,7 +10,7 @@
 
 
 
-[Design Tracking] (https://docs.google.com/spreadsheets/d/1FdUHUPBIRm5FxJNf6RY84oyeMKRgcwPNWDX1B3NQ6Vw/edit?usp=sharing_)
+[Design Tracking](https://docs.google.com/spreadsheets/d/1FdUHUPBIRm5FxJNf6RY84oyeMKRgcwPNWDX1B3NQ6Vw/edit?usp=sharing_)
 
 
 
