@@ -2,9 +2,13 @@
 
 [Designs](Designs.md)
 
-[Protocols](Designs.md)
+[Protocols](www.isemp.org):
+Dropbox
+word and pdf doc for each year: Sarah (training version, final version)
+change log (stored?) for each each year: Andy 
 
 Methods
+
 
 Measurements
 
