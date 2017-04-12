@@ -19,10 +19,6 @@ word and pdf doc for each year: Sarah (training version, final version)
 
 [Measurements](MeasurementsMainPage.md)
 
-(andy and J)
-
-- Data Dictionary 
-
 [Metrics](MetricsMainPage.md) 
 
 (boyd, jeremiah, andy, carol)
@@ -79,8 +75,6 @@ Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 Accessory software (carol)
 
 - harold (gdb exporter)
-
-  ​
 
 QA (Process, notes, plots) (carol)
 
