@@ -68,9 +68,6 @@ Data Broker (Sitka)
 
 [Topographic Toolbar](CHaMP Topographic Toolbar.md)
 
-- website
-- code
-- processing outline
 
 Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 
