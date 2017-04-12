@@ -10,13 +10,13 @@ CHaMP developed an ArcGIS Add-In toolbar to facilitate processing topographic su
 
 
 
-Annual Timeline
-Dec-Feb: Toolbar functional requirements scoped and contracted
-Mar-Apr: Core toolbar updates developed
-May: Toolbar testing
-June 1: Training version of toolbar
-July 1: Field season version of toolbar
-July-Sept: Crew support and troubleshooting. Critical releases only.
+Annual Timeline  
+Dec-Feb: Toolbar functional requirements scoped and contracted  
+Mar-Apr: Core toolbar updates developed  
+May: Toolbar testing  
+June 1: Training version of toolbar  
+July 1: Field season version of toolbar  
+July-Sept: Crew support and troubleshooting. Critical releases only.  
 
 
 
