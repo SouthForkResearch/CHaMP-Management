@@ -1,4 +1,4 @@
-Protocol Change Log
+# Protocol Change Log
 
 > This following content is replicated from Appendix H in the 2016 version of the Scientific Protocol for Salmonid Habitat Surveys Within the Columbia Habitat Monitoring Program.
 
@@ -8,8 +8,7 @@ Consistent with the recommendations of Oakley et al. (2003) this protocol includ
   
 Some protocols from the “Field Manual of Scientific Protocols for Habitat Surveys within the Upper Columbia Monitoring Strategy” (Moberg 2010) have been incorporated into the CHaMP protocol.  Revisions to the Upper Columbia protocol have been tracked in a revision log and can be referenced to inform future decisions.  As development of the CHaMP protocol proceeds, those revisions will be tracked in the CHaMP log.
 
-####***Protocol Revision History Log Links***
-
+## ***Protocol Revision History Log Links***
 
 [2012-2016 Protocol Change Log](https://www.dropbox.com/s/56ycae9n3bmzzv1/2012-2016_CHaMP%20Protocol%20Change%20Log.docx?dl=0)
 
