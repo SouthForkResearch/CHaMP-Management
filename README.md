@@ -4,12 +4,12 @@
 
 Protocols and Methods:
 
-List of protocols (boyd and sarah)
-*main protocol
-*total station protocol
-*scouting/supervisor manual
+List of protocols (boyd and sarah)  
+*main protocol  
+*total station protocol  
+*scouting/supervisor manual  
 *study design  
-*macroinbrate
+*macroinbrate  
 
 Dropbox or Egnyte?
 word and pdf doc for each year: Sarah (training version, final version)
