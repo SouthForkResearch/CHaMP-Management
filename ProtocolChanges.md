@@ -20,6 +20,11 @@ Some protocols from the “Field Manual of Scientific Protocols for Habitat Surv
 
 2015-2016: Note that there were no changes made to the 2015 and 2016 versions of the protocol.
 
+## References
+Oakley, K. L., L. P. Thomas, S. G. Fancy. 2003. Guidelines for long-term monitoring protocols. Wildlife Society Bulletin 2003, 31(4):1000-1003.
+
+Peitz, D.G., S.G. Fancy, L.P. Thomas, and B. Witcher. 2002. Bird monitoring protocol for Agate Fossil Beds National Monument, Nebraska and Tallgrass Prairie National Preserve, Kansas. Prairie Cluster Prototype Monitoring Program, National Park Service, U.S. Department of the Interior.
+
 
 
 [Return to HOME](README.md)
