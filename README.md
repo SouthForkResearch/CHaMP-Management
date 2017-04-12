@@ -3,7 +3,6 @@
 [Designs](Designs.md)
 
 [Protocols and Manuals](ProtocolMainPage.md)
-Protocols and Methods:
 
 - List of protocols (boyd and sarah)  
 
@@ -15,16 +14,18 @@ Protocols and Methods:
 
 word and pdf doc for each year: Sarah (training version, final version)
 
-- change log (stored?) for each each year: (Andy's table)
-
 - change rationale documents (Jeremiah)
 - (macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
 
-Measurements (andy and J)
+Measurements(MeasurementsMainPage.md)
+
+(andy and J)
 
 - Data Dictionary 
 
-[Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki) (boyd, jeremiah, andy, carol)
+[Metrics](MetricsMainPage.md) 
+
+(boyd, jeremiah, andy, carol)
 
 - Data Dictionary (y by y)
 - Performance (variance decomposition)
