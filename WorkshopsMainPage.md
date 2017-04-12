@@ -55,3 +55,6 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 [HSM Exercise 3: Restoration Planning]
 
 [GCD/HSM Exercise: Five Points Restoration]
+
+
+[Return to HOME](README.md)
