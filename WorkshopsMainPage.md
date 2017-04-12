@@ -4,9 +4,9 @@
 
 In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, models and analyses with restoration planning and effectiveness evaluation. The workshops included lectures and hands-on exercises aimed at advanced CHaMP data collectors and analysts.
 
-##2016 Workshop Materials
+## 2016 Workshop Materials
 
-###Presentations
+### Presentations
 
 	Metrics
 	- [Metric Basics]
@@ -17,9 +17,9 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 	- [Introduction to Sample Design]
 	- [Measuring Restoration Effectiveness]
 
-#*Geomorphic Change Detection (GCD)*
+#### Geomorphic Change Detection (GCD)
 
-[Intro To GCD](https://www.dropbox.com/s/mcsmr3vsxnj0tln/Lecture%201_Intro%20to%20GCD.pptx?dl=0)
+	- [Intro To GCD](https://www.dropbox.com/s/mcsmr3vsxnj0tln/Lecture%201_Intro%20to%20GCD.pptx?dl=0)
 
 [GCD Project Explorer](https://www.dropbox.com/s/wbuee4b6ppdlh7s/Lecture%202_GCD%20Project%20Explorer.pptx?dl=0)
 
