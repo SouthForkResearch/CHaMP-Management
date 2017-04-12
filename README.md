@@ -2,6 +2,7 @@
 
 [Designs](Designs.md)
 
+[Protocols and Manuals](ProtocolMainPage.md)
 Protocols and Methods:
 
 - List of protocols (boyd and sarah)  
