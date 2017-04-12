@@ -1,4 +1,4 @@
-#CHaMP Workshops
+# CHaMP Workshops
 
 ----------
 
@@ -8,18 +8,18 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 ### Presentations
 
-	Metrics
-	- [Metric Basics]
-	- [CHaMP Metrics To Assess Restoration Effectiveness]
+#### Metrics
+[Metric Basics]
+[CHaMP Metrics To Assess Restoration Effectiveness]
 
-	Sample Design
-	- [CHaMP Data Analysis]
-	- [Introduction to Sample Design]
-	- [Measuring Restoration Effectiveness]
+#### Sample Design
+[CHaMP Data Analysis]
+[Introduction to Sample Design]
+[Measuring Restoration Effectiveness]
 
 #### Geomorphic Change Detection (GCD)
 
-	- [Intro To GCD](https://www.dropbox.com/s/mcsmr3vsxnj0tln/Lecture%201_Intro%20to%20GCD.pptx?dl=0)
+[Intro To GCD](https://www.dropbox.com/s/mcsmr3vsxnj0tln/Lecture%201_Intro%20to%20GCD.pptx?dl=0)
 
 [GCD Project Explorer](https://www.dropbox.com/s/wbuee4b6ppdlh7s/Lecture%202_GCD%20Project%20Explorer.pptx?dl=0)
 
@@ -31,24 +31,24 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 [GCD Wrap Up](https://www.dropbox.com/s/tzwvq242piqz5un/Lecture%204_wrap%20up.pptx?dl=0)
 
-	Hydraulic Models
-	- [Overview of Hydraulic Modeling]
+#### Hydraulic Models
+[Overview of Hydraulic Modeling]
 
-	Habitat Suitability Models (HSM)
-	- [Intro to HSM]
+#### Habitat Suitability Models (HSM)
+[Intro to HSM]
 
-###Exercises
-	Geomorphic Change Detection (GCD)
-	- [GCD Exercise 1: Budget Segregation]
-	- [GCD Exercise 2: Restoration Planning]
-	- [GCD Exercise 3: Reach Types]
+### Exercises
+#### Geomorphic Change Detection (GCD)
+[GCD Exercise 1: Budget Segregation]
+[GCD Exercise 2: Restoration Planning]
+[GCD Exercise 3: Reach Types]
 
-	Hydraulic Models
-	- [Hydraulic Model Output Review]
+#### Hydraulic Models
+[Hydraulic Model Output Review]
 
-	Habitat Suitability Models (HSM)
-	- [HSM Exercise 1: Data Review]
-	- [HSM Exercise 2: Multiple Flows]
-	- [HSM Exercise 3: Restoration Planning]
+#### Habitat Suitability Models (HSM)
+[HSM Exercise 1: Data Review]
+[HSM Exercise 2: Multiple Flows]
+[HSM Exercise 3: Restoration Planning]
 
-	- [GCD/HSM Exercise: Five Points Restoration]
+[GCD/HSM Exercise: Five Points Restoration]
