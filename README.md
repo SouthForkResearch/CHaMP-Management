@@ -5,20 +5,20 @@
 Protocols and Methods:
 
 List of protocols (boyd and sarah)
--main protocol
--total station protocol
--scouting/supervisor manual
--study design  
--macroinbrate
+*main protocol
+*total station protocol
+*scouting/supervisor manual
+*study design  
+*macroinbrate
 
 Dropbox or Egnyte?
 word and pdf doc for each year: Sarah (training version, final version)
-change log (stored?) for each each year: (Andy's table)
-change rationale documents (Jeremiah)
-(macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
+*change log (stored?) for each each year: (Andy's table)
+*change rationale documents (Jeremiah)
+*(macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
 
 Measurements (andy and J)
-Data Dictionary 
+*Data Dictionary 
 
 
 [Metrics](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki) (boyd, jeremiah, andy, carol)
@@ -29,60 +29,54 @@ Validation (what validates)
 
 
 File List (carol, andy, jeremiah)
--custody form
--files and packages
--temp files (air, stream, hobo)
--survey files (total station), survey files
--processed data files 
--sun eye files
--scanned forms
--QA files
+*custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
 
 Models (boyd)
-sites
-network
+*sites
+*network
 
 Data Flow (carol)
--data management plan
--workflow diagram
+*data management plan
+*workflow diagram
 
 Data Processing (fortney)
--Toolbar/survey gdb
--sun eye photos
--hoboware
--QA protocols
+*Toolbar/survey gdb
+*sun eye photos
+*hoboware
+*QA protocols
 
 Equipment (boyd)
--equipment lists 
--total station stuff
--manuals
--sun eye
--purchasing?
--ipad vs. data logger
+*equipment lists 
+*total station saga
+*equipment manuals
+*sun eye saga
+*purchasing?
+*Quartermaster roles/responsibilities
+*ipad vs. data logger
 
 
 Data Broker (Sitka)
--manual
--download location
+*manual
+*download location
 
-Topo Toolbar (carol)
--website
--code
--processing outline
+[Topographic Toolbar](Topographic Toolbar.md)
+*website
+*code
+*processing outline
 
-Survey Data Format (formerly known as survey gdbs)
--structure year by year
+Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
+*structure year by year
 
 Accessory software (carol)
--harold (gdb exporter)
--CAD file generator
+*harold (gdb exporter)
+*CAD file generator
 
 QA (Process, notes, plots) (carol)
--data flow
--Validation
+*data flow
+*Validation
 
 Final datasets (each year, or at least a final data set that covers all years)
--carol (jeremiah and andy)
+*carol (jeremiah and andy)
 
 Reports (sarah)
 
@@ -90,5 +84,5 @@ Training (sarah)
 
 Presentations
 workshop materials 
--exercises and presentations (Andy Steve 2016) 
--exercises and presentations (2015-boyd and andy)
+*exercises and presentations (Andy Steve 2016) 
+*exercises and presentations (2015-boyd and andy)
