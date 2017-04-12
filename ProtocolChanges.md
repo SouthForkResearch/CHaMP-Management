@@ -1,4 +1,4 @@
-#Protocol Change Log
+Protocol Change Log
 
 > This following content is replicated from Appendix H in the 2016 version of the Scientific Protocol for Salmonid Habitat Surveys Within the Columbia Habitat Monitoring Program.
 
@@ -10,15 +10,13 @@ Some protocols from the “Field Manual of Scientific Protocols for Habitat Surv
 
 ####***Protocol Revision History Log Links***
 
-2012-2016 Protocol Change Log 
-[https://www.dropbox.com/s/56ycae9n3bmzzv1/2012-2016_CHaMP%20Protocol%20Change%20Log.docx?dl=0](https://www.dropbox.com/s/56ycae9n3bmzzv1/2012-2016_CHaMP%20Protocol%20Change%20Log.docx?dl=0 "2012-2016 Protocol Change Log")
 
-2012 Protocol Change Log
+[2012-2016 Protocol Change Log](https://www.dropbox.com/s/56ycae9n3bmzzv1/2012-2016_CHaMP%20Protocol%20Change%20Log.docx?dl=0)
 
+[2012 Protocol Change Log](https://www.dropbox.com/s/qdbty5u1h5ceod2/2012_CHaMP%20Protocol%20Change%20Log.docx?dl=0)
 
+[2013 Protocol Change Log](https://www.dropbox.com/s/jte34evnovtjnd3/2013_CHaMP%20Protocol%20Change%20Log.docx?dl=0)
 
-2013 Protocol Change Log
+[2014 Protocol Change Log](https://www.dropbox.com/s/05dqqj70nlxrwj4/2014_CHaMP%20Protocol%20Change%20Log.docx?dl=0)
 
-2014 Protocol Change Log
-
-There were no changes made to the 2015 and 2016 versions of the protocol.
+2015-2016: Note that there were no changes made to the 2015 and 2016 versions of the protocol.
