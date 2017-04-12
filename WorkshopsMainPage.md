@@ -18,6 +18,7 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 	- [Measuring Restoration Effectiveness]
 
 ####Geomorphic Change Detection (GCD)
+
 [Intro To GCD](https://www.dropbox.com/s/mcsmr3vsxnj0tln/Lecture%201_Intro%20to%20GCD.pptx?dl=0)
 [GCD Project Explorer](https://www.dropbox.com/s/wbuee4b6ppdlh7s/Lecture%202_GCD%20Project%20Explorer.pptx?dl=0)
 [GCD Results & Metrics](https://www.dropbox.com/s/mms6dyw4hdyth63/Lecture%202a_GCD%20results_metrics.pptx?dl=0)
