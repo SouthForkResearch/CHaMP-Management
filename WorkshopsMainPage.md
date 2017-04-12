@@ -10,11 +10,14 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 #### Metrics
 [Metric Basics](https://www.dropbox.com/s/3rn0hyuycwvzwqg/Day2_MetricBasics.pptx?dl=0)
+
 [CHaMP Metrics To Assess Restoration Effectiveness](https://www.dropbox.com/s/3tes8x63lhsl2ad/Day3_2HSM_CHaMPMetricsRestoration_v1.pptx?dl=0)
 
 #### Sample Design
 [CHaMP Data Analysis](https://www.dropbox.com/s/3tes8x63lhsl2ad/Day3_2HSM_CHaMPMetricsRestoration_v1.pptx?dl=0)
+
 [Introduction to Sample Design](https://www.dropbox.com/s/odz5qx4k0wdspm8/Intro%20to%20Sample%20Design_6_4_2016cv.pptx?dl=0)
+
 [Measuring Restoration Effectiveness](https://www.dropbox.com/s/b1nuipg16fiq042/Restoration_Analysis_6_5_2016.pptx?dl=0)
 
 #### Geomorphic Change Detection (GCD)
@@ -32,10 +35,10 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 [GCD Wrap Up](https://www.dropbox.com/s/tzwvq242piqz5un/Lecture%204_wrap%20up.pptx?dl=0)
 
 #### Hydraulic Models
-[Overview of Hydraulic Modeling]
+[Overview of Hydraulic Modeling](https://www.dropbox.com/s/lf1pls6ofmqfwo2/Nahorniak_Hydro%20Modeling_6_8_16.pptx?dl=0)
 
 #### Habitat Suitability Models (HSM)
-[Intro to HSM]
+[Intro to HSM](https://www.dropbox.com/s/mzk4gahqfjainve/Day3_HSM_Presentation_AHill.pptx?dl=0)
 
 ### Exercises
 #### Geomorphic Change Detection (GCD)
