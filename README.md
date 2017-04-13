@@ -72,9 +72,7 @@ Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 - structure year by year
 - CAD file generator requirements
 
-Accessory software (carol)
-
-- harold (gdb exporter)
+[Other Software](OtherSoftware.md)
 
 QA (Process, notes, plots) (carol)
 
