@@ -53,7 +53,9 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 #### *Habitat Suitability Models (HSM)*
 [HSM Exercise 1: Data Review](https://www.dropbox.com/sh/ecd6k9s07pmj8hg/AAC1pJAnzlJ2Z-rtLfDQc5Gna?dl=0)
+
 [HSM Exercise 2: Multiple Flows](https://www.dropbox.com/sh/r2t51cn7y3kgu99/AABkHbguJvmysg1hHJ5pkpgea?dl=0)
+
 [HSM Exercise 3: Restoration Planning](https://www.dropbox.com/sh/ud830unfp7yixb8/AACv9d9D4TplFcYa-wMFmUT1a?dl=0)
 
 [GCD/HSM Exercise: Five Points Restoration](https://www.dropbox.com/sh/pthrbnde830llsi/AACyk4-6SXAc0A2PD4o5IWQKa?dl=0)
