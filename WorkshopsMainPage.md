@@ -6,7 +6,7 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 ## 2016 Workshop Materials
 
-### _Presentations_
+### __**Presentations**__
 
 #### Metrics
 [Metric Basics](https://www.dropbox.com/s/3rn0hyuycwvzwqg/Day2_MetricBasics.pptx?dl=0)
