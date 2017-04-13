@@ -6,7 +6,7 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 ## 2016 Workshop Materials
 
-### Presentations
+### _Presentations_
 
 #### Metrics
 [Metric Basics](https://www.dropbox.com/s/3rn0hyuycwvzwqg/Day2_MetricBasics.pptx?dl=0)
@@ -47,14 +47,14 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 [GCD Exercise 3: Reach Types]
 
 #### Hydraulic Models
-[Hydraulic Model Output Review]
+[Hydraulic Model Output Review](https://www.dropbox.com/sh/2tz18mh8cxr5oeu/AAADFeJZZ1JCHc8ZZb-n3kzga?dl=0)
 
 #### Habitat Suitability Models (HSM)
-[HSM Exercise 1: Data Review]
-[HSM Exercise 2: Multiple Flows]
-[HSM Exercise 3: Restoration Planning]
+[HSM Exercise 1: Data Review](https://www.dropbox.com/sh/ecd6k9s07pmj8hg/AAC1pJAnzlJ2Z-rtLfDQc5Gna?dl=0)
+[HSM Exercise 2: Multiple Flows](https://www.dropbox.com/sh/r2t51cn7y3kgu99/AABkHbguJvmysg1hHJ5pkpgea?dl=0)
+[HSM Exercise 3: Restoration Planning](https://www.dropbox.com/sh/ud830unfp7yixb8/AACv9d9D4TplFcYa-wMFmUT1a?dl=0)
 
-[GCD/HSM Exercise: Five Points Restoration]
+[GCD/HSM Exercise: Five Points Restoration](https://www.dropbox.com/sh/pthrbnde830llsi/AACyk4-6SXAc0A2PD4o5IWQKa?dl=0)
 
 
 [Return to HOME](README.md)
