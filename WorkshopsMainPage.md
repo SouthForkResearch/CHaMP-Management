@@ -42,11 +42,11 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 
 ### **Exercises**
 #### *Geomorphic Change Detection (GCD)*
-[GCD Exercise 1: Budget Segregation]
+[GCD Exercise 1: Budget Segregation](https://www.dropbox.com/sh/w0yo6qh83qupd85/AAB3K8YxdjA10k8l8kNvmfMja?dl=0)
 
-[GCD Exercise 2: Restoration Planning]
+[GCD Exercise 2: Restoration Planning](https://www.dropbox.com/sh/n08z4zvor4qbj2d/AAAitX9iaqwD9ktKDGj3Vjpsa?dl=0)
 
-[GCD Exercise 3: Reach Types]
+[GCD Exercise 3: Reach Types](https://www.dropbox.com/sh/m0merubdt5th1tm/AADvWjbILrZUmcf04l4H3zToa?dl=0)
 
 #### *Hydraulic Models*
 [Hydraulic Model Output Review](https://www.dropbox.com/sh/2tz18mh8cxr5oeu/AAADFeJZZ1JCHc8ZZb-n3kzga?dl=0)
