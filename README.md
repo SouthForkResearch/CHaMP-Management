@@ -91,4 +91,5 @@ Presentations
 [Workshops](WorkshopsMainPage.md)
 
 - exercises and presentations (Andy Steve 2016) 
-- exercises and presentations (2015-boyd and andy)
+- Steve, so for, I (Andy) have uploaded links to all exercises and presentations. Maybe check to see if I got what you wanted in there for your stuff.
+- exercises and presentations (2015-boyd)
