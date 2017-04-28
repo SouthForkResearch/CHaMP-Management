@@ -9,8 +9,8 @@ In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, 
 ### **Presentations**
 
 #### *Metrics*
-*[Metric Basics](https://www.dropbox.com/s/3rn0hyuycwvzwqg/Day2_MetricBasics.pptx?dl=0)
-*[CHaMP Metrics To Assess Restoration Effectiveness](https://www.dropbox.com/s/3tes8x63lhsl2ad/Day3_2HSM_CHaMPMetricsRestoration_v1.pptx?dl=0)
+* [Metric Basics](https://www.dropbox.com/s/3rn0hyuycwvzwqg/Day2_MetricBasics.pptx?dl=0)
+* [CHaMP Metrics To Assess Restoration Effectiveness](https://www.dropbox.com/s/3tes8x63lhsl2ad/Day3_2HSM_CHaMPMetricsRestoration_v1.pptx?dl=0)
 
 #### *Sample Design*
 [CHaMP Data Analysis](https://www.dropbox.com/s/3tes8x63lhsl2ad/Day3_2HSM_CHaMPMetricsRestoration_v1.pptx?dl=0)
