@@ -63,12 +63,23 @@
 ## Protocol Change Documentation
 [Protocol Change Logs](ProtocolChanges.md)
 
-### Protocol Change Rationale Documents
-[Timeline of changes in data collection and metric summaries](https://www.dropbox.com/s/rgagji3952grack/CHaMP%20timeline%20of%20changes%20in%20data%20collection%20and%20summary_20150410_11292016.xlsx?dl=0)
+[Timeline of Changes in Data Collection and Metric Summaries](https://www.dropbox.com/s/rgagji3952grack/CHaMP%20timeline%20of%20changes%20in%20data%20collection%20and%20summary_20150410_11292016.xlsx?dl=0)
 
- Fish Cover and Undercut Metrics
- 
-(macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements
+### Protocol Change Rationale Documents
+
+[Large Wood](https://www.dropbox.com/s/kag122j5ffr1zf8/CHaMP_LWProtocolChanges.docx?dl=0)
+
+[Fish Cover and Undercut Metrics](https://www.dropbox.com/s/wlbc82v7j5m741i/CHaMP_Fish%20Cover%20%26%20Undercut%20Metric%20Changes.docx?dl=0)
+
+[Pebble Counts](https://www.dropbox.com/s/7jouopjysl1la8f/CHaMP_PebbleCountProtocolChanges.docx?dl=0)
+
+[Riparian](https://www.dropbox.com/s/bn22888etr4qxnv/CHaMP_RiparianProtocolChanges.docx?dl=0)
+
+[Side Channels](https://www.dropbox.com/s/6iigxk0137g3nuo/CHaMP_SideChannelMetricChanges.docx?dl=0)
+
+[Solar Input](https://www.dropbox.com/s/qj5nneeu1z95ug6/CHaMP_SolarInputProtocolChanges.docx?dl=0)
+
+Leftovers from list not documented include macroinverts, air temp requirements ******Are these needed???? No real changes to macros...
 
 ## Manuals
 
