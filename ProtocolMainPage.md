@@ -4,39 +4,36 @@
 ## Protocol Documents
 
 ### *2016*
-[2016 Training Version (word)]
+[2016 Version (word)](https://www.dropbox.com/s/08eslyqu5zhej5o/2016_CHaMP_Protocol_201605015.docx?dl=0)
 
-[2016 Training Version (pdf)]
-
-[2016 Field Version (word)]
-
-[2016 Field Version (pdf)]
+[2016 Version (pdf)](https://www.dropbox.com/s/3cfxwv2vqurrjcc/2016_CHaMP_Protocol_201605015.pdf?dl=0)
 
 ### *2015*
-[2015 Training Version (word)]
+[2015 Training Version (word)](https://www.dropbox.com/s/6b0ldfa20ojy628/2015_CHaMProtocol_TrainingVersion1.1_20150515.docx?dl=0)
 
-[2015 Training Version (pdf)]
+[2015 Training Version (pdf)](https://www.dropbox.com/s/vf8a0kdtpz0fdd0/2015_CHaMProtocol_TrainingVersion1.1_20150515.pdf?dl=0)
 
-[2015 Field Version (word)]
+[2015 Field Version (word)](https://www.dropbox.com/s/pyx69gb2qey2fcr/2015_CHaMProtocol_FieldVersion_20150615.docx?dl=0)
 
-[2015 Field Version (pdf)]
+[2015 Field Version (pdf)](https://www.dropbox.com/s/4apo4wt7bugt3se/2015_CHaMProtocol_FieldVersion_20150615.pdf?dl=0)
 
 ### *2014*
-[2014 Training Version (word)]
+[2014 Training Version (word)](https://www.dropbox.com/s/bxh1dujka1brnw4/2014_CHaMProtocol_TrainingVersion_20140519.docx?dl=0)
 
-[2014 Training Version (pdf)]
+[2014 Training Version (pdf)](https://www.dropbox.com/s/yjzd55s5t94o3ed/2014_CHaMProtocol_TrainingVersion_20140519.pdf?dl=0)
 
-[2014 Field Version (word)]
+[2014 Field Version (word)](https://www.dropbox.com/s/5jecczz5j8yd4hv/2014_CHaMProtocol_Field_version_20140615.docx?dl=0)
 
-[2014 Field Version (pdf)]
+[2014 Field Version (pdf)](https://www.dropbox.com/s/catr600kaysy4pn/2014_CHaMProtocol_Field_version_20140615.pdf?dl=0)
 
 ### *2013*
-[2013 Training Version (word)]
-[2013 Training Version (pdf)]
+[2013 Training Version (word)](https://www.dropbox.com/s/piq0jtz5a7gqte7/CHaMProtocol_2013TrainingVersion20130522.docx?dl=0)
 
-[2013 Field Version (word)]
+[2013 Training Version (pdf)](https://www.dropbox.com/s/v17j8m99e04pb4w/CHaMProtocol_2013TrainingVersion20130522.pdf?dl=0)
 
-[2013 Field Version (pdf)]
+[2013 Field Version (word)](https://www.dropbox.com/s/nal27xu589m2inz/CHaMPProtocol_2013FieldVersion_20130619.docx?dl=0)
+
+[2013 Field Version (pdf)](https://www.dropbox.com/s/rj2vhzxm72bgska/CHaMPProtocol_2013FieldVersion_20130619.pdf?dl=0)
 
 [Velocity and Macroinvertebrate Drift Sampling Procedures (word)]
 
@@ -45,11 +42,11 @@
 ### *2012*
 [2012 Training Version (word)]
 
-[2012 Training Version (pdf)]
+[2012 Training Version (pdf)](https://www.dropbox.com/s/9orho8q5jnd5ybx/CHaMP_Protocol_2012_Training_Version_06182020.pdf?dl=0)
 
 [2012 Field Version (word)]
 
-[2012 Field Version (pdf)]
+[2012 Field Version (pdf)](https://www.dropbox.com/s/3e10b8lhptwscpx/CHaMP_Protocol_2012_Field_Version_06182020.pdf?dl=0)
 
 ### *2011*
 [2011 Training Version (word)]
