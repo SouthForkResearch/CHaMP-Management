@@ -64,8 +64,10 @@
 [Protocol Change Logs](ProtocolChanges.md)
 
 ### Protocol Change Rationale Documents
-[Timeline of changes in data collection and metric summaries]https://www.dropbox.com/s/rgagji3952grack/CHaMP%20timeline%20of%20changes%20in%20data%20collection%20and%20summary_20150410_11292016.xlsx?dl=0
+[Timeline of changes in data collection and metric summaries](https://www.dropbox.com/s/rgagji3952grack/CHaMP%20timeline%20of%20changes%20in%20data%20collection%20and%20summary_20150410_11292016.xlsx?dl=0)
 
+ Fish Cover and Undercut Metrics
+ 
 (macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements
 
 ## Manuals
