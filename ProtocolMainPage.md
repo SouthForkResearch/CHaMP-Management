@@ -35,9 +35,9 @@
 
 [2013 Field Version (pdf)](https://www.dropbox.com/s/rj2vhzxm72bgska/CHaMPProtocol_2013FieldVersion_20130619.pdf?dl=0)
 
-[Velocity and Macroinvertebrate Drift Sampling Procedures (word)]
+[Velocity and Macroinvertebrate Drift Sampling Procedures (word)](https://www.dropbox.com/s/3t67fp2iq0ytgjv/2013%20CHaMP%20Bug%20Protocol_6.28.2013.docx?dl=0)
 
-[Velocity and Macroinvertebrate Drift Sampling Procedures (pdf)]
+[Velocity and Macroinvertebrate Drift Sampling Procedures (pdf)](https://www.dropbox.com/s/po0vsiuoo27pl7n/2013%20CHaMP%20Bug%20Protocol_6.28.2013.pdf?dl=0)
 
 ### *2012*
 [2012 Training Version (word)]
