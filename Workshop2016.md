@@ -1,8 +1,3 @@
-# CHaMP Workshops
-
-----------
-
-In 2015 and 2016, CHaMP hosted workshop sessions focused on linking CHaMP data, models and analyses with restoration planning and effectiveness evaluation. The workshops included lectures and hands-on exercises aimed at advanced CHaMP data collectors and analysts.
 
 ## 2016 Workshop Materials
 
