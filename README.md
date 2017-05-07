@@ -4,16 +4,6 @@
 
 [Protocols and Manuals](ProtocolMainPage.md)
 
-- List of protocols (boyd and sarah)  
-
-- main protocol  
-- total station protocol  
-- scouting/supervisor manual  
-- study design  
-- macroinbrate  
-
-word and pdf doc for each year: Sarah (training version, final version)
-
 - change rationale documents (Jeremiah)
 - (macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
 
@@ -21,9 +11,6 @@ word and pdf doc for each year: Sarah (training version, final version)
 
 [Metrics](MetricsMainPage.md) 
 
-(boyd, jeremiah, andy, carol)
-
-- Data Dictionary (y by y)
 - Performance (variance decomposition)
 - Utility-which metrics are used by other models? 
 - Validation (what validates)
@@ -81,9 +68,7 @@ Final datasets (each year, or at least a final data set that covers all years)
 
 [Reports](ReportsMain.md) 
 
-Training (sarah)
-
-Presentations
+Training
 
 [Outreach](CHaMP Outreach.md)
 

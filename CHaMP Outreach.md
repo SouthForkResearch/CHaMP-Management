@@ -6,13 +6,30 @@ CHaMP has utilized several forms of outreach communication to engage and share C
 
 CHaMP hosted annual December post-season wrap up meetings as a means to share data analyses to date and gather feedback from CHaMP participants on the protocol, designs, data flow, and metrics.  Updates on CHaMP fish habitat relationships and models were also shared.
 
+[2011 Post-season presentations](https://www.dropbox.com/sh/dozev6nnuizaigc/AAA3C-qaILtauMVU5EEf8xooa?dl=0) (December 2011)
+
+[2012 Post-season presentations](https://www.dropbox.com/sh/ib41rrsbbjf604g/AADyDw5MvNzJ81_zqtbcv6LQa?dl=0) (December 2012)
+
+[2013 Post-season presentations](https://www.dropbox.com/sh/762i45sbfzwukxi/AAA1PeHniSJMTIMRT_P8p1una?dl=0) (December 2013)
+
+
+
 <u>Analytical Planning</u> (2014)
 
 CHaMP shared analytical plans and progress to date in a February Analysis Meeting with BPA and the Power Planning Council.  The focus of this meeting was to outline the application and utility of CHaMP products towards Key Management Questions (KMQs).
 
+[2014 Analytical meeting](https://www.dropbox.com/sh/anjwdklfthxksbq/AAAb7NQr-YUR9GmkzWtlM6NWa?dl=0) (February 2014)
+
+
 <u>CHaMP Camp Analytical Training Workshops</u> (2015-2016)
 
 Advancements and use of CHaMP analytical tools and fish-habitat models were shared and taught at the 2015-2016 CHaMP Camp Workshops.  These Workshops were held concurrently with CHaMP Camp (annually in Cove, OR) for three days as many interested parties were already in attendance at CHaMP Camp.  
+
+[2015 CHaMP Analysis Workshop](https://www.dropbox.com/sh/3hm6h2ciqp49sgn/AAATZrgfcgpTgM5PQU6N-XrJa?dl=0) (June 2015)
+
+[2016 CHaMP Analysis Workshop](Workshop2016.md) (June 2016)
+
+
 
 <u>**Network and Site Metric and Product Review Workshops (Fall 2017)**</u>
 
@@ -20,16 +37,4 @@ In 2017, CHaMP plans to continue outreach activities by engaging CoManagers and 
 
 
 
-[2011 Post-season presentations](https://www.dropbox.com/sh/dozev6nnuizaigc/AAA3C-qaILtauMVU5EEf8xooa?dl=0) (December 2011)
-
-[2012 Post-season presentations](https://www.dropbox.com/sh/ib41rrsbbjf604g/AADyDw5MvNzJ81_zqtbcv6LQa?dl=0) (December 2012)
-
-[2013 Post-season presentations](https://www.dropbox.com/sh/762i45sbfzwukxi/AAA1PeHniSJMTIMRT_P8p1una?dl=0) (December 2013)
-
-[2014 Analytical meeting](https://www.dropbox.com/sh/anjwdklfthxksbq/AAAb7NQr-YUR9GmkzWtlM6NWa?dl=0) (February 2014)
-
-[2015 CHaMP Analysis Workshop](https://www.dropbox.com/sh/3hm6h2ciqp49sgn/AAATZrgfcgpTgM5PQU6N-XrJa?dl=0) (June 2015)
-
-[2016 CHaMP Analysis Workshop](Workshop2016.md) (June 2016)
-
-2017 (TBD)
+[Return to HOME](README.md)
