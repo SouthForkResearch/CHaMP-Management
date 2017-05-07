@@ -61,7 +61,7 @@ Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 QA (Process, notes, plots) (carol)
 
 - data flow
-- [Metric Validation](Metrics Validation.md)
+- [Metric Validation](Metric Validation.md)
 
 Final datasets (each year, or at least a final data set that covers all years)
 *carol (jeremiah and andy)
