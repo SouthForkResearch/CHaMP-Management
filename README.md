@@ -4,9 +4,6 @@
 
 [Protocols and Manuals](ProtocolMainPage.md)
 
-- change rationale documents (Jeremiah)
-- (macroinverts, substrate count changes, substrate method, new category of LWD/no jams, measuring LWD instead of categories, fish cover undercuts, fish cover aquatic veg, solar methods, air temp requirements 
-
 [Measurements](MeasurementsMainPage.md)
 
 [Metrics](MetricsMainPage.md) 
