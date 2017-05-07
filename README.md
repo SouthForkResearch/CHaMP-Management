@@ -32,10 +32,7 @@ File List (carol, andy, jeremiah)
 
 - custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
 
-Models (boyd)
-
-- sites
-- network
+[Site and Network Fish and Habitat Models](Models.md)
 
 Data Flow (carol)
 
@@ -77,19 +74,16 @@ Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 QA (Process, notes, plots) (carol)
 
 - data flow
-- Validation
+- [Validation Process](Metric Validation.md])
 
 Final datasets (each year, or at least a final data set that covers all years)
 *carol (jeremiah and andy)
 
-Reports (sarah)
+[Reports](ReportsMain.md) 
 
 Training (sarah)
 
 Presentations
 
-Workshops
-* [2016](WorkshopsMainPage.md)
-* 2015
-- Steve, so for, I (Andy) have uploaded links to all exercises and presentations. Maybe check to see if I got what you wanted in there for your stuff.
-- exercises and presentations (2015-boyd)
+[Outreach](CHaMP Outreach.md)
+
