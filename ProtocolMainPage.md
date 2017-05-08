@@ -83,21 +83,19 @@ Leftovers from list not documented include macroinverts, air temp requirements *
 ### *Total Station Operating Manuals*
 
 #### TopCon
-[TopCon User's Manual (word)]
+[TopCon User's Manual (word)](https://www.dropbox.com/s/4um6w7bgovkfkqd/Topcon_2016_UsersManual_20160519.doc?dl=0)
 
-[TopCon User's Manual (pdf)]
+[TopCon User's Manual (pdf)](https://www.dropbox.com/s/sf5z0mbcnk3bwud/Topcon_2016_UsersManual_20160519.pdf?dl=0)
 
 #### Nikon
-[Nikon User's Manual (word)]
+[Nikon User's Manual (word)](https://www.dropbox.com/s/vss9s0bkvvtirty/Nikon_2015_UsersManual_FieldVersion_20150520.docx?dl=0)
 
-[Nikon User's Manual (pdf)]
-
-Note: do we need them by year??
+[Nikon User's Manual (pdf)](https://www.dropbox.com/s/cinwwvpeqtjxzll/Nikon_2015_UsersManual_FieldVersion_20150520.pdf?dl=0)
 
 ### *Scouting/Supervisor's Manual*
-[Scouting/Supervisor's Manual (word)]
+[Scouting/Supervisor's Manual (word)](https://www.dropbox.com/s/sf5z0mbcnk3bwud/Topcon_2016_UsersManual_20160519.pdf?dl=0)
 
-[Scouting/Supervisor's Manual (pdf)]
+[Scouting/Supervisor's Manual (pdf)](https://www.dropbox.com/s/z8ko066md1tuw7u/2015_SupervisorsManual_20150519.pdf?dl=0)
 
 ### *Study Design*
 [Study Design Manual]
