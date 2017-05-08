@@ -40,22 +40,19 @@
 [Velocity and Macroinvertebrate Drift Sampling Procedures (pdf)](https://www.dropbox.com/s/po0vsiuoo27pl7n/2013%20CHaMP%20Bug%20Protocol_6.28.2013.pdf?dl=0)
 
 ### *2012*
-[2012 Training Version (word)]
 
 [2012 Training Version (pdf)](https://www.dropbox.com/s/9orho8q5jnd5ybx/CHaMP_Protocol_2012_Training_Version_06182020.pdf?dl=0)
-
-[2012 Field Version (word)]
 
 [2012 Field Version (pdf)](https://www.dropbox.com/s/3e10b8lhptwscpx/CHaMP_Protocol_2012_Field_Version_06182020.pdf?dl=0)
 
 ### *2011*
-[2011 Training Version (word)]
+[2011 Version (word)]
 
-[2011 Training Version (pdf)]
+[2011 Version (pdf)](https://www.dropbox.com/s/r03hd90s958p2fr/CHaMP_HabitatProtocol_v1.1_20110601.pdf?dl=0)
 
-[2011 Field Version (word)]
+[2011 Addendum (word)](https://www.dropbox.com/s/e6d7ocdrivm58xs/CHaMPHabitatProtocolAddenda1_20110711.FINAL.doc?dl=0)
 
-[2011 Field Version (pdf)]
+[2011 Addendum (pdf)](https://www.dropbox.com/s/a5axi00oy5soq5n/CHaMP_HabitatProtocol_Addenda1_20110711.pdf?dl=0)
 
 ## Protocol Change Documentation
 [Protocol Change Logs](ProtocolChanges.md)
