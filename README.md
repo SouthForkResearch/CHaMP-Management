@@ -15,16 +15,6 @@ QA (Process, notes, plots) (carol)
 
 [Equipment](Equipment.md)
 
-(boyd)
-
-- equipment lists 
-- total station saga
-- equipment manuals
-- sun eye saga
-- purchasing?
-- Quartermaster roles/responsibilities
-- ipad vs. data logger
-
 File List (carol, andy, jeremiah)
 
 - custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
