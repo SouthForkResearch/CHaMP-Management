@@ -18,10 +18,7 @@ File List (carol, andy, jeremiah)
 
 [Site and Network Fish and Habitat Models](Models.md)
 
-Data Flow (carol)
-
-- data management plan
-- workflow diagram
+Data Management
 
 Data Processing (fortney)
 
