@@ -27,8 +27,8 @@
 ## Documentation
 
 
-### Changing Total Station Devices
-[4/23/2014 Memo To Sean Welch (BPA](https://www.dropbox.com/s/363l1e6z19pu231/TS_230414_Memo.docx?dl=0)
+##### Changing Total Station Devices
+ - [4/23/2014 Memo To Sean Welch (BPA](https://www.dropbox.com/s/363l1e6z19pu231/TS_230414_Memo.docx?dl=0)
 
 [Changing Solar Input Devices]
 
