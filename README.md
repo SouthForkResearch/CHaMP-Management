@@ -13,7 +13,9 @@ QA (Process, notes, plots) (carol)
 - data flow
 - [Metric Validation](Metric Validation.md)
 
-Equipment (boyd)
+[Equipment](Equipment.md)
+
+(boyd)
 
 - equipment lists 
 - total station saga
