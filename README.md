@@ -55,7 +55,7 @@ Final datasets (each year, or at least a final data set that covers all years)
 
 - Performance (variance decomposition)
 - Utility-which metrics are used by other models? 
-- Validation (what validates)
+- What validates
 
 [Site and Network Fish and Habitat Models](Models.md)
 
