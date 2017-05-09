@@ -4,28 +4,14 @@
 
 [Protocols and Manuals](ProtocolMainPage.md)
 
-[Measurements](MeasurementsMainPage.md)
-
-[Metrics](MetricsMainPage.md) 
-
-- Performance (variance decomposition)
-- Utility-which metrics are used by other models? 
-- Validation (what validates)
-
-File List (carol, andy, jeremiah)
-
-- custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
-
-[Site and Network Fish and Habitat Models](Models.md)
+Training
 
 Data Management
 
-Data Processing (fortney)
+QA (Process, notes, plots) (carol)
 
-- Toolbar/survey gdb
-- sun eye photos
-- hoboware
-- QA protocols
+- data flow
+- [Metric Validation](Metric Validation.md)
 
 Equipment (boyd)
 
@@ -37,32 +23,45 @@ Equipment (boyd)
 - Quartermaster roles/responsibilities
 - ipad vs. data logger
 
-Data Broker (Sitka)
+File List (carol, andy, jeremiah)
 
-- manual
-- download location
+- custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
+
+Data Processing (fortney)
+
+- Toolbar/survey gdb
+- sun eye photos
+- hoboware
+- QA protocols
 
 [Topographic Toolbar](CHaMP Topographic Toolbar.md)
-
 
 Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 
 - structure year by year
 - CAD file generator requirements
 
-[Other Software](OtherSoftware.md)
+Data Broker (Sitka)
 
-QA (Process, notes, plots) (carol)
+- manual
+- download location
 
-- data flow
-- [Metric Validation](Metric Validation.md)
+[Measurements](MeasurementsMainPage.md)
+
+[Metrics](MetricsMainPage.md) 
 
 Final datasets (each year, or at least a final data set that covers all years)
 *carol (jeremiah and andy)
 
-[Reports](ReportsMain.md) 
+- Performance (variance decomposition)
+- Utility-which metrics are used by other models? 
+- Validation (what validates)
 
-Training
+[Site and Network Fish and Habitat Models](Models.md)
+
+[Other Software](OtherSoftware.md)
+
+[Reports](ReportsMain.md) 
 
 [Outreach](CHaMP Outreach.md)
 
