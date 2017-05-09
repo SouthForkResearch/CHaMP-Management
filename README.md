@@ -6,7 +6,7 @@
 
 Training
 
-Data Management
+[Data Management](DataManagement.md)
 
 QA (Process, notes, plots) (carol)
 
