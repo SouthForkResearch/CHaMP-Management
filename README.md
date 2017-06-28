@@ -49,9 +49,29 @@ Final datasets (each year, or at least a final data set that covers all years)
 - Utility-which metrics are used by other models? 
 - What validates
 
-[Site and Network Fish and Habitat Models](Models.md)
+[Site Models](Models.md)
 
-[Other Software](OtherSoftware.md)
+Topo Processing
+- Site Properties
+- Topo Metrics
+- Topo + Aux Metrics
+- Aux Metrics
+
+Habitat Capacity
+- NREI
+- HSI/FIS
+- QRF
+
+
+Network Models
+-the sea
+
+[Software and Data Flow](OtherSoftware.md)
+- CHaMP Automation (all things AWS structure)
+- API resources
+- Workbench
+- Harold
+- Maude
 
 [Reports](ReportsMain.md) 
 
