@@ -26,10 +26,10 @@
 - hoboware
 - QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
-- ## Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
+- #### Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 - structure year by year
 - CAD file generator requirements
-- ## Data Broker (Sitka)
+- #### Data Broker (Sitka)
 - manual
 - download location
 
