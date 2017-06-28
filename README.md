@@ -7,7 +7,7 @@
 ### Training
 
 ### [Data Management](DataManagement.md)
-- ####File List (carol, andy, jeremiah)
+#### - File List (carol, andy, jeremiah)
 - custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
 
 ### [Software and Data Systems](OtherSoftware.md)
@@ -26,15 +26,14 @@
 - hoboware
 - QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
-- #### Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
+#### - Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
 - structure year by year
 - CAD file generator requirements
-- #### Data Broker (Sitka)
+#### - Data Broker (Sitka)
 - manual
 - download location
 
 ### QA (Process, notes, plots) (carol)
-
 - data flow
 - [Metric Validation](Metric Validation.md)
 
