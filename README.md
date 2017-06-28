@@ -26,12 +26,9 @@
 - hoboware
 - QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
-#### - Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs)
-- structure year by year
+- Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs) y by y summary
 - CAD file generator requirements
-#### - Data Broker (Sitka)
-- manual
-- download location
+- Data Broker (Sitka)
 
 ### QA (Process, notes, plots) (carol)
 - data flow
@@ -55,6 +52,9 @@ CHaMP Topo
 - Topo Metrics
 - Topo + Aux Metrics
 - Aux Metrics
+- CAD files
+- Substrate Rasters
+- FIS input generator tbd
 
 Habitat Capacity
 - NREI
