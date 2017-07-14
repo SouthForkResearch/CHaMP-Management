@@ -22,8 +22,8 @@
 ### Data Processing (fortney)
 
 - [Toolbar/survey gdb](TopoDataProcessing.md)
-- sun eye photos
-- hoboware
+- [sun eye photos](DataProcessing.md)
+- [hoboware](DataProcessing.md)
 - QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
 - Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs) y by y summary
