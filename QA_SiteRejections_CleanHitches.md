@@ -3,7 +3,7 @@
 
 
 1. Navigate to the Field Support/Data Check-In Tab for your watershed  
-![DataCheckInTabSnapshot](https://github.com/SouthForkResearch/CHaMP-Management/tree/master/images/DataCheckInTabPencil.png)
+![DataCheckInTabSnapshot](https://southforkresearch.github.io/CHaMP-Management/images/DataCheckInTabPencil.png)
 
 2. Update the Site Evaluations for all sites that were rejected in-season by the scout or field crew.
 
