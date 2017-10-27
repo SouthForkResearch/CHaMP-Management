@@ -2,7 +2,7 @@
 
 
 
-1. Navigate to the Field Support/Data Check-In Tab for your watershed![DataCheckInTabPencil]({{ site.url}}/images/DataCheckInTabPencil.png)
+1. Navigate to the Field Support/Data Check-In Tab for your watershed![DataCheckInTabSnapshot](https://github.com/SouthForkResearch/CHaMP-Management/tree/master/images/DataCheckInTabPencil.png)
 
    ​
 
@@ -10,7 +10,7 @@
 
    1. Click the pencil icon to open the site evaluation form and save updates.
 
-      ![QA_SiteRejections_CleanHitches]({{https://southforkresearch.github.io/CHaMP-Management}}/images/Evaluation.png)
+      ![Evaluation window](https://github.com/SouthForkResearch/CHaMP-Management/tree/master/images/Evaluation.png)
 
 3. Review all Visits with Visit Status =Planned.  Make sure these Visits either:
 
