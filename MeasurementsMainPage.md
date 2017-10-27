@@ -3,7 +3,7 @@
 ----------
 
 ## Data Dictionary
-[Measurement Types](MeasurementTypes.md)
+[Measurement Types](MeasurementTypes.md)  
 [Measurement Definitions](https://www.dropbox.com/s/yo4f600ta6cx80l/ChampMeasurementsDD_DefinitionsRefined.xlsx?dl=0)
 
 
