@@ -10,7 +10,7 @@
 
    1. Click the pencil icon to open the site evaluation form and save updates.
 
-      ![InSeasonEvaluations]({{ site.url }}/images/Evaluation.png)
+      ![QA_SiteRejections_CleanHitches]({{ site.url }}/images/Evaluation.png)
 
 3. Review all Visits with Visit Status =Planned.  Make sure these Visits either:
 
