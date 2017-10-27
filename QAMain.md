@@ -14,7 +14,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [CHaMPMonitoring.org](www.champmonitoring.org)
 
-Step 1: Report In-season Site Rejections and Clean Hitches
+[Step 1: Report In-season Site Rejections and Clean Hitches](QA_SiteRejections_CleanHitches.md)
 
 Step 2:  Complete Data Upload
 
