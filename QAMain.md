@@ -16,7 +16,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 1: Report In-season Site Rejections and Clean Hitches](QA_SiteRejections_CleanHitches.md)
 
-Step 2:  Complete Data Upload
+[Step 2:  Complete Data Upload](QA_DataUpload.md)
 
 Step 3: Tag Visits with Purpose
 
