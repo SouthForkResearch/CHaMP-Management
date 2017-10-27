@@ -2,7 +2,7 @@
 
 1. Navigate to the [Field Data Upload Utility](https://broker.champmonitoring.org/)
 2. Select Hitches. Review each Hitch in the current season to ensure all file packages have been loaded for each Visit.
-3. Note: If Hitches that are not yours are present in the Hitch list, Update your FDUU Settings by selecting the ![Settings Icon](https://southforkresearch.github.io/CHaMP-Management/images/FDUU_Settings.png) and adjusting Iteration (Year) and Organization filters. 
+3. Note: If Hitches that are not yours are present in the Hitch list, Update your FDUU Settings by selecting the ![Settings Icon](https://southforkresearch.github.io/CHaMP-Management/images/FDUU_settings.png) and adjusting Iteration (Year) and Organization filters. 
 4. Review Visits where Visit Phase = Data Collection and determine which Visits are missing uploaded packages of data.  
 
 ![File Status](https://southforkresearch.github.io/CHaMP-Management/images/FDUU_FileStatus.png)
