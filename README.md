@@ -11,11 +11,6 @@
 - custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
 
 ### [Software and Data Systems](OtherSoftware.md)
-- CHaMP Automation (all things AWS structure)
-- API resources
-- Workbench
-- Harold
-- Maude
 
 ### [Equipment](Equipment.md)
 
