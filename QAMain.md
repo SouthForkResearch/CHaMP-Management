@@ -18,13 +18,13 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 2:  Complete Data Upload](QA_DataUpload.md)
 
-Step 3: Tag Visits with Purpose
+[Step 3: Tag Visits with Purpose](QA_VisitTags.md)
 
-Step 4: Targeted Review of Measurements
+[Step 4: Targeted Review of Measurements](QA_ReviewMeasurements.md)
 
 Step 5: Review Control Network Metadata
 
-[CHaMP Workbench](www.workbench.northarrowresearch.com)
+[CHaMP Workbench](workbench.northarrowresearch.com)
 
 Step 6: Review Validation Report
 
