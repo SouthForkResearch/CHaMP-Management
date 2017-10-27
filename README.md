@@ -19,7 +19,7 @@
 
 ### [Equipment](Equipment.md)
 
-### Data Processing (fortney)
+### Data Processing 
 
 - [Toolbar/survey gdb](TopoDataProcessing.md)
 - [sun eye photos](DataProcessing.md)
