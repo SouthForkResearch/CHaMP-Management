@@ -2,7 +2,9 @@
 
 Tags are used to help track the objectives of the Visit and are updated by Crew Leads or Watershed Managers after the field season.
 
-Navigate to the Visit tab of your Watershed and Review Tags. Select the Tag Icon to Update the Tags.
+Navigate to the Visit tab of your Watershed and Review Tags. Select the ![TagIcon](https://southforkresearch.github.io/CHaMP-Management/images/TagIcon.png) to Update the Tags.
+
+![Visit Tags](https://southforkresearch.github.io/CHaMP-Management/images/Visit_Tags.png)
 
 The <u>Visit Objective</u> should be updated by double clicking on the cell.  ***Primary visits*** are usually the first visit to a site by the local sampling Organization.  Repeat visits are labeled as ***QC Visits*** and usually occur later in the season.
 
