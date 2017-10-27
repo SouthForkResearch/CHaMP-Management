@@ -30,7 +30,7 @@
 - CAD file generator requirements
 - Data Broker (Sitka)
 
-### QA (Process, notes, plots) (carol)
+### [QA](QAMain.md)
 - data flow
 - [Metric Validation](Metric Validation.md)
 
