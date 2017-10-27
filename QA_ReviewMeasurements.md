@@ -2,7 +2,7 @@
 
 
 
-1. Review Quality Assurance Calculations displayed on the Auxillariy Data Grits of the Measurements Tab:    ![Measurement Review Counts](https://southforkresearch.github.io/CHaMP-Management/images/MeasurementReview_Counts.png)
+1. Review Quality Assurance Calculations displayed on the Auxillariy Data Grits of the Measurements Tab:   
 
    - Count of LWD
    - Count of Pebbles
@@ -10,7 +10,7 @@
    - Count of Benchmarks
    - Count of Aux Photos
    
-
+ ![Measurement Review Counts](https://southforkresearch.github.io/CHaMP-Management/images/MeasurementReview_Counts.png)
 
    Visits with exceptional values or subject to non-repairable data loss should be noted in the QA Status tab
 
