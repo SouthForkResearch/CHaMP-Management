@@ -9,6 +9,8 @@
    - Count of Discharge Stations
    - Count of Benchmarks
    - Count of Aux Photos
+   
+   ![Measurement Review Counts](https://southforkresearch.github.io/CHaMP-Management/images/MeasurementReview_Counts.png)
 
    Visits with exceptional values or subject to non-repairable data loss should be noted in the QA Status tab
 
