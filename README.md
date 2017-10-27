@@ -58,11 +58,12 @@ Habitat Capacity
 
 
 ### Network Models
--the sea
 
-### Riverscapes
+### [Riverscapes](http://riverscapes.northarrowresearch.com/)
 
 ### [Reports](ReportsMain.md) 
 
 ### [Outreach](CHaMP Outreach.md)
+
+https://southforkresearch.github.io/CHaMP-Management/
 
