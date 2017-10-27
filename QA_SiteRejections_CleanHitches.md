@@ -10,7 +10,7 @@
 
    1. Click the pencil icon to open the site evaluation form and save updates.
 
-      ![QA_SiteRejections_CleanHitches]({{ site.url }}/images/Evaluation.png)
+      ![](https://github.com/SouthForkResearch/CHaMP-Management/tree/master/images/Evaluation.png)
 
 3. Review all Visits with Visit Status =Planned.  Make sure these Visits either:
 
