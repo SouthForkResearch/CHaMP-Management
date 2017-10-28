@@ -14,7 +14,7 @@
 
    Visits with exceptional values or subject to non-repairable data loss should be noted in the QA Status tab. 
 
-| [Measurement Type](QA_MeasurementTypes.md)  | X                      | Y                       |                Color By                | Notes        |
+| [Measurement Type](MeasurementTypes.md)  | X                      | Y                       |                Color By                | Notes        |
 | ----------------- | ---------------------- | ----------------------- | :------------------------------------: | ------------ |
 | Bankfull Width    | Site Length            | Average BF Width        |              Data Quality              |              |
 | Visit Information | Site Length            | Count of LWD            |              Data Quality              |              |
