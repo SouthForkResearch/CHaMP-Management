@@ -11,10 +11,9 @@ Accuracy of control networks is critical since this information is used for site
 
 * Benchmark
 * Site Marker
-* Control Poit
+* Control Point
 * Monument
 
 
 
 [Return to QA HOME](QAMain.md)
-

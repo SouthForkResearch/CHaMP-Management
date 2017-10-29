@@ -8,17 +8,26 @@
 
 2. Update the Site Evaluations for all sites that were rejected in-season by the scout or field crew.       ![Evaluation window](https://southforkresearch.github.io/CHaMP-Management/images/Evaluation.png)
 
-   1. Click the pencil icon to open the site evaluation form and save updates.
+   Click the pencil icon to open the site evaluation form and save updates.
 
-      
+   ​
 
-3. Review all Visits with Visit Status =Planned.  Make sure these Visits either:
+
+3. Review all Visits with Visit Status =Planned.  These Visits should fall into one of the thee categories:
 
    1. Are currently being post-processed and will have data uploaded soon.
 
-   2. Have updated site evaluations because no data is expected for these visits
+   2. Need updated site evaluations because no data is expected for these visits
 
-   3. Are removed from the hitch since they were not sampled.
+   3. Need to be removed from the hitch since they were not sampled.
+
+      ​
+
+      [Return to QA HOME](QAMain.md)
+
+      ​
+
+      ​
 
       ​
 

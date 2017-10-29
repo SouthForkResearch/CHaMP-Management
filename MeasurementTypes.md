@@ -42,14 +42,14 @@ Measurement Types describe groups of Measurement Data that are captured during t
 #### Transects
 
 - Transect Photos
-- Riparian Sturcture
+- Riparian Structure
 - Canopy Cover
 - Solar Pathfinder
 
 #### Invertebrates
 
-- Drift Invertebrate Sample
-- Drift Invertebrate Sample Results
-- Taxon By Size Class Counts
-- Sample Biomasses
+- <u>Drift Invertebrate Sample:</u> Includes drift sampling net placement, depths, velocities and deployment times. 
+- <u>Drift Invertebrate Sample Results</u>: Includes sample sorting metadata, such as jar counts, sorting time and personnel.
+- <u>Taxon By Size Class Counts:</u> Contains invertebrate taxon, lifestage, size class, count and quality of all invertebrates in the sorted sample. 
+- <u>Sample Biomasses:</u> Contains dry mass of pooled fractions of sample (Aquatic, Terrestrial and Aquatic Terrestrial).  Aquatics are invertebrates with aquatic larval stages, Terrestrial are invertebrates with terrestrial larval stages, and Aquatic_Terrestrial are the adult life stages of aquatics that have a terrestrial form. 
 
