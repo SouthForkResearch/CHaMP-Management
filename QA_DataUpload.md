@@ -15,9 +15,14 @@ Data are packaged as follows:
    - Solar Input Photos
    - Stream Temp Readings
    - Air Temp Readings
-   
+
 5. If a package is missing, Open the Visit by selecting the VisitID and use the Upload functionality at the bottom of the Visit view.  
 
 ![Upload view](https://southforkresearch.github.io/CHaMP-Management/images/FDUU_Upload.png)
 
 6. This can also be done from the Data Check-In tab.
+
+
+
+[Return to QA HOME](QAMain.md)
+
