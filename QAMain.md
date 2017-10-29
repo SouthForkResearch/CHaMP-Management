@@ -24,6 +24,7 @@ Steps 1-5 occur on [CHaMPMonitoring.org](www.champmonitoring.org)
 
 [Step 5: Review Control Network Metadata](QA_ControlNetworkMetadata.md)
 
+
 Steps 6-7 occur on the [CHaMP Workbench](workbench.northarrowresearch.com).  Update your Workbench software prior to beginning each QA session.
 
 Step 6: Review Validation Report
