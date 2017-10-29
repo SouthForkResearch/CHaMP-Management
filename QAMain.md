@@ -33,7 +33,7 @@ Step 7: Metric Review
 
 
 
-Step 8: Metric Promotion
+[Step 8: Visit Promotion](QA_VisitPromotion.md)
 
 Step 9: Metric Release
 
