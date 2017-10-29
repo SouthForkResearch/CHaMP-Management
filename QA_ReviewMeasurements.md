@@ -1,4 +1,4 @@
-# Step 4: Review Measurements
+# Step 4: Review Measurements and Set QA Status
 
 
 
@@ -12,7 +12,9 @@
 
  ![Measurement Review Counts](https://southforkresearch.github.io/CHaMP-Management/images/MeasurementReview_Counts.png)
 
-   Visits with exceptional values or subject to non-repairable data loss should be noted in the QA Status tab. 
+   Visits with exceptional values or subject to non-repairable data loss should be noted in the [QA Status](QA_QAStatus.md) tab. 
+
+2. Review graphs of key [Measurement Type](MeasurementTypes.md) values listed below.  These checks target metadata and values not captured in Metric Review.
 
 | [Measurement Type](MeasurementTypes.md) | X                      | Y                       |                Color By                | Notes        |
 | --------------------------------------- | ---------------------- | ----------------------- | :------------------------------------: | ------------ |
@@ -36,7 +38,6 @@
 
 *NOTE: Point colors are only used to highlight potential issues.  There may be issues with ‘green’ (good)*
 *colored data and some red or orange colored points may be fine.  There are no restrictions or flags tracked in the data that relate to point color.*
-
 
 
 [Return to QA HOME](QAMain.md)
