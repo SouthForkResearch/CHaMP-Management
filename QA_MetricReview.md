@@ -7,6 +7,7 @@ Any issues encountered in the Review process should be documented in [JIRA ](htt
 3. Ensure the Visits for review are in the main list of visits in the Workbench.  If not, [Sync Watersheds, Sites and Visits](workbench.northarrowresearch.com/Data_Menu/synchronize_champ_data.html) into the Workbench and re-check.
 4. Select visits for metric review.  Use the year, protocol and watershed filters or select Visits individually in the main visit inventory.  Rows will be blue when selected.  Hold the Shift Key down to select multiple Visits.
 
+![Select Visits](https://southforkresearch.github.io/CHaMP-Management/images/WB_SelectVisits.png)
 
 5. [Download metrics](workbench.northarrowresearch.com/Data_Menu/download_metrics.html) using the Metric Download option from the Data menu.  This will download metrics directly from CHaMPmonitoring.org into the Workbench and will take a few minutes. Select these Schemas for download: 
 
