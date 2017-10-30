@@ -24,7 +24,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 5: Review Control Network Metadata](QA_ControlNetworkMetadata.md)
 
-Step 6: Review Validation Report
+[Step 6: Review Validation Messages](QA_ReviewValidationMessages.md)
 
 [Step 7: Metric Review](QA_MetricReview.md)
 
