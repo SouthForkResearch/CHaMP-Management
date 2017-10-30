@@ -6,17 +6,19 @@ Any issues encountered in the Review process should be documented in [JIRA ](htt
 2. Open CHaMP Workbench. Once installed, the easiest way to find it is to search for 'CHaMP' on your computer (this works in Windows 8 or higher). 
 3. Ensure the Visits for review are in the main list of visits in the Workbench.  If not, [Sync Watersheds, Sites and Visits](workbench.northarrowresearch.com/Data_Menu/synchronize_champ_data.html) into the Workbench and re-check.
 4. Select visits for metric review.  Use the year, protocol and watershed filters or select Visits individually in the main visit inventory.  Rows will be blue when selected.  Hold the Shift Key down to select multiple Visits.
+
+
 5. [Download metrics](workbench.northarrowresearch.com/Data_Menu/download_metrics.html) using the Metric Download option from the Data menu.  This will download metrics directly from CHaMPmonitoring.org into the Workbench and will take a few minutes. Select these Schemas for download: 
 
-QA - Aux Channel Metrics (CHaMP)
-QA - Aux Tier 1 Metrics (CHaMP)
-QA - Aux Visit Metrics (CHaMP)
-QA - Topo Channel Metrics (CHaMP)
-QA - Topo Tier 1 Metrics (CHaMP)
-QA - Topo Tier 2 Metrics (CHaMP)
-QA - Topo Visit Metrics (CHaMP)
-QA - TopoAux Tier 1 Metrics (CHaMP)
-QA - TopoAux Visit Metrics (CHaMP)
+QA - Aux Channel Metrics (CHaMP)  
+QA - Aux Tier 1 Metrics (CHaMP)  
+QA - Aux Visit Metrics (CHaMP)  
+QA - Topo Channel Metrics (CHaMP)  
+QA - Topo Tier 1 Metrics (CHaMP)  
+QA - Topo Tier 2 Metrics (CHaMP)  
+QA - Topo Visit Metrics (CHaMP)  
+QA - TopoAux Tier 1 Metrics (CHaMP)  
+QA - TopoAux Visit Metrics (CHaMP)  
 
 Repeat the metric download process throughout the QA season if any updates are made to the topographic or Measurement data.
 
