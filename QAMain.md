@@ -12,7 +12,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 ### Post Season QA Review Steps
 
-Steps 1-5 occur on [CHaMPMonitoring.org](www.champmonitoring.org)
+*Steps 1-5 and 8-9 occur on [CHaMPMonitoring.org](www.champmonitoring.org) and Steps 6-7 occur on the [CHaMP_Workbench](workbench.northarrowresearch.com).*  
 
 [Step 1: Report In-season Site Rejections and Clean Hitches](QA_SiteRejections_CleanHitches.md)
 
@@ -24,14 +24,9 @@ Steps 1-5 occur on [CHaMPMonitoring.org](www.champmonitoring.org)
 
 [Step 5: Review Control Network Metadata](QA_ControlNetworkMetadata.md)
 
-
-Steps 6-7 occur on the [CHaMP Workbench](workbench.northarrowresearch.com).  Update your Workbench software prior to beginning each QA session.
-
 Step 6: Review Validation Report
 
-Step 7: [Metric Review](QA_MetricReview.md)
-
-
+[Step 7: Metric Review](QA_MetricReview.md)
 
 [Step 8: Visit Promotion](QA_VisitPromotion.md)
 
