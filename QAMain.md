@@ -29,7 +29,7 @@ Steps 6-7 occur on the [CHaMP Workbench](workbench.northarrowresearch.com).  Upd
 
 Step 6: Review Validation Report
 
-Step 7: Metric Review
+Step 7: [Metric Review](QA_MetricReview.md)
 
 
 
