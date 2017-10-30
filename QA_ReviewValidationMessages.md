@@ -6,7 +6,7 @@ Metric engines do not depend on a passing status for all validation messages.  T
 
 Validation Messages will be available [HERE](https://docs.google.com/a/southforkresearch.org/spreadsheets/d/1RfnPRDDjHap5nzUwKhL3MmxQ50Rq0LcNGUxID49jHJ0/edit?usp=sharing) and will be updated every Monday from Nov 2017-Dec 15 2017.
 
-1. Review Validation Messages where MessageType = Error for all 2017 visits that you sampled.  Note that past years are also available, and detailed information on updating legacy datasets can be found in the [Topographic Data Versioning](QA_Updates_pre2017surveys) description.
+1. Review Validation Messages where MessageType = Error for all 2017 visits that you sampled.  Note that past years are also available, and detailed information on updating legacy datasets can be found in the [Topographic Data Versioning](QA_Updates_pre2017surveys.md) description.
 
 2. Open Topographic Data with the [CHaMP Toolbar](champtools.northarrowresearch.com) if surveys need additional updates.  Revisit the Validation Error list each week until no Errors exist for your Visits.
 
