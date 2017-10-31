@@ -34,7 +34,7 @@ Step 9: Metric Release
 
 ### Reference Manuals:
 * [Temperature Data Review](https://www.dropbox.com/s/fi1bi5je3scsy9g/CM.org%20-%20StreamTempQAProtocol_2014.pdf?dl=0)
-* [Side Channel and Wetted Polygon Review](https://www.dropbox.com/s/7yczqql7xpiml7k/CHaMP_QA_SideChannels_MultipleWettedPolygons_Topo_Photo_Upload_2016.pdf?dl=0)
+* [Side Channel and Wetted Polygon Review](https://www.dropbox.com/s/7yczqql7xpiml7k/CHaMP_QA_SideChannels_MultipleWettedPolygons_Topo_Photo_Upload_2016.pdf?dl=0)  
 AEM Metric Review
 
 [Return to HOME](README.md)
