@@ -20,3 +20,5 @@ Visit promotion shifts visits from the *'In QA*' Visit Phase to the *'Data Appro
 3. From the Metric tab for the Visit (aka Site Details page) click  “Promote Data”
 4. Repeat steps 2 and 3 until all current year Visits have been promoted.
 5. Note that the Visit Status and Visit Phase attributes are available in numerous grids and can be used to quickly sort Visits by promotion state.
+
+[Return to QA Home](QAMain.md)
