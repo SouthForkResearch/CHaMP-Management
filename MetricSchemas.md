@@ -8,7 +8,7 @@ such as:
 
 *QA - Aux Visit Metrics (CHaMP)* 
 
-####<u>Schema Status</u>
+#### <u>Schema Status</u>
 
 CHaMP has two schema statuses that are visible on champmonitoring.org and the Workbench, QA and Final. 
 
