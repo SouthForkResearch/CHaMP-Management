@@ -21,8 +21,7 @@
 - [hoboware](DataProcessing.md)
 - QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
-- Survey Data Format (carol,kelly, philip)(formerly known as survey gdbs) y by y summary
-- CAD file generator requirements
+- Survey Data Format  y by y summary
 - Data Broker (Sitka)
 
 ### [QA](QAMain.md)
@@ -34,28 +33,12 @@
 ### [Metrics](MetricsMainPage.md) 
 
 Final datasets (each year, or at least a final data set that covers all years)
-*carol (jeremiah and andy)
 
 - Performance (variance decomposition)
 - Utility-which metrics are used by other models? 
 - What validates
 
-### [Site Models](Models.md)
-
-CHaMP Topo 
-- Site Properties
-- Topo Metrics
-- Topo + Aux Metrics
-- Aux Metrics
-- CAD files
-- Substrate Rasters
-- FIS input generator tbd
-
-Habitat Capacity
-- NREI
-- HSI/FIS
-- QRF
-
+### [Site Products](CHaMPSiteProducts.md)
 
 ### Network Models
 
