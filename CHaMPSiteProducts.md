@@ -26,7 +26,7 @@ Substrate Rasters
 * **habitat suitability index (HSI)-based capacity:** 
 * **fuzzy inference (FIS) habitat capacity version 1:**
 * **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.
-* **NREI**: Net Rate Energy Intake
+[* **NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake
 * **QRF capacity:**
 
  
