@@ -6,26 +6,30 @@ Successful completion of the CHaMP protocol at a site leads to production of the
 
 * auxiliary
 * topographic
-* topographic-auxiliary  
+* topographic-auxiliary   
 
-[Site Properties]([https://riverscapes.github.io/CHaMPAutomation/engines/SiteProps.html](https://www.google.com/url?q=https%3A%2F%2Friverscapes.github.io%2FCHaMPAutomation%2Fengines%2FSiteProps.html&sa=D&sntz=1&usg=AFQjCNE9b4jDBhEyhPn2Ym4g_CsFqOjHbg)):  Topographic control networks for each site packaged for scouting map generation, crew evaluation and use, and upload to total stations. 
+Final metrics are accessible from the [CHaMP Workbench](workbench.northarrowresearch.org) or CHaMPmonitoring.org (Metrics tab). QA metrics are also available from these locations if a User has the appropriate Permissions.  
 
-**Topographic Survey Files (Visit-specific)**: Raw survey input and post-processed topographic output files files packaged into a [hierarchical folder structure](http://champtools.northarrowresearch.com/9_technical_reference/project/) by the [TopoToolbar](champtools.northarrowresearch.com) 
+[Site Properties]([https://riverscapes.github.io/CHaMPAutomation/engines/SiteProps.html](https://www.google.com/url?q=https%3A%2F%2Friverscapes.github.io%2FCHaMPAutomation%2Fengines%2FSiteProps.html&sa=D&sntz=1&usg=AFQjCNE9b4jDBhEyhPn2Ym4g_CsFqOjHbg)):  Topographic control networks for each site packaged for scouting map generation, crew evaluation and use, and upload to total stations. Files are available from the Site Documents tab of champmonitoring.org.  
 
-**CAD Files (Visit-specific):**  Post-processed topographic survey files in a CAD-friendly file format. These files are a specific subset of topographic survey products.    
+**Topographic Survey Files (Visit-specific)**: Raw survey input and post-processed topographic output files files packaged into a [hierarchical folder structure](http://champtools.northarrowresearch.com/9_technical_reference/project/) by the [TopoToolbar](champtools.northarrowresearch.com). Files are available from the Field Data Upload Utility tool of champmonitoring.org (TopoData.zip).  
 
-[Hydraulic Model](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki): A Delft-3D hydraulic model is used to produce hydraulic model estimates of depth and velocity throughout a site.  Models are run for the discharge at the time of sampling (Surveyed results) and each site has one model using a spring, high flow (Modeled results).   There are separate products of hydraulic model input files, surveyed result files, and modeled result files for each Visit.  
+**CAD Files (Visit-specific):**  Post-processed topographic survey files in a CAD-friendly file format. These files are a specific subset of topographic survey products. Files are available from the Visit Documents page of champmonitoring.org (CADExport.zip)  
 
-**Substrate Rasters:** A stream-bed roughness raster of a specified grain size (a percentile of a grain size distribution curve) based on ocular substrate size estimates within the bankfull channel.  
+[Hydraulic Model](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki): A Delft-3D hydraulic model is used to produce hydraulic model estimates of depth and velocity throughout a site.  Models are run for the discharge at the time of sampling (Surveyed results) and each site has one model using a spring, high flow (Modeled results).   There are separate products of hydraulic model input files, surveyed result files, and modeled result files for each Visit and are available from the Visit Documents tab of champmonitoring.org.   
+
+Result products that begin with "S" are for surveyed flows (summer low flows at time of topographic survey).  Result products that begin with "M" are for modeled flows (usually spring high flows at the time of topographic survey).  
+
+**Substrate Rasters:** A stream-bed roughness raster of a specified grain size (a percentile of a grain size distribution curve) based on ocular substrate size estimates within the bankfull channel.  Rasters will be available from the Visit Documents tab in January 2018).  
 
 QRF-based habitat capacity: 
 
-**Fish-Habitat Model Products:** A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software  
+**Fish-Habitat Model Products:** A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software: 
 
-* **habitat suitability index (HSI)-based capacity:** Depth, velocity and substrate rasters are used in habitat suitability curves to produce estimates of habitat capacity.
-* **fuzzy inference (FIS) habitat capacity version 1:** Depth, velocity and substrate inputs are used in a fuzzy inference system to produce estimates of habitat capacity.  
-* **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.  
-* [**NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake models use the velocity and depth rasters from hydraulic models, temperature, and drifting invertebrate biomass information to estimate of energetic-based habitat capacity for the site.
+* **habitat suitability index (HSI)-based capacity:** Depth, velocity and substrate rasters are used in habitat suitability curves to produce estimates of habitat capacity. Products available from the Visit Documents tab of champmonitoring.org.  
+* **fuzzy inference (FIS) habitat capacity version 1:** Depth, velocity and substrate inputs are used in a fuzzy inference system to produce estimates of habitat capacity.  Products available from the Visit Documents tab of champmonitoring.org.  
+* **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.  Products available from the Visit Documents tab of champmonitoring.org in early 2018 for the subset of CHaMP sites where this model has been run.  
+* [**NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake models use the velocity and depth rasters from hydraulic models, temperature, and drifting invertebrate biomass information to estimate of energetic-based habitat capacity for the site.  Products available from the Visit Documents tab of champmonitoring.org in early 2018 for 2011-2016 Visits.  
 
 #### Retired file types
 
@@ -33,10 +37,17 @@ Site Geodatabases and Survey Geodatabases were retired after the 2016 field seas
 
 
 ### Where do I find these files?
-
-##### Site Documents: 
-
+The products listed above are available from these locations of CHaMPmonitoring.org: 
+##### Metrics tab
+The Metrics tab allows download of a .csv file of metrics. Metrics are visible in a grid if viewing from an individual Visit.  Metric tab views for an entire Watershed or the Program (Reports tab) only allow .csv file download (screenshot below).
+![Metric Download from Watershed View](https://southforkresearch.github.io/CHaMP-Management/images/CM_MetricDownload.png)
+##### Site Documents:  
+Navigate to the Site Details page for any site by clicking on the Site ID of a site.  Open the Site Documents tab.  
+![Site Documents](https://southforkresearch.github.io/CHaMP-Management/images/CM_SiteDocuments.png)
 ##### Visit Documents:
-
+Navigate to the Visit of a site by clicking on the Visit ID of a site.  Open the Visit Documents tab.  
+![Visit Documents](https://southforkresearch.github.io/CHaMP-Management/images/CM_VisitDocuments.png)
 ##### Field Data Upload Utility (FDUU):
+The Field Data Upload Utility is accessible from the Tools menu. 
+![CM FDUU page](https://southforkresearch.github.io/CHaMP-Management/images/CM_FDUU.png)
 
