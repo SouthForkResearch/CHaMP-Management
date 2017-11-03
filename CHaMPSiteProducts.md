@@ -14,38 +14,27 @@ Successful completion of the CHaMP protocol at a site leads to production of the
 
 **CAD Files (Visit-specific):**  Post-processed topographic survey files in a CAD-friendly file format. These files are a specific subset of topographic survey products.    
 
-[Hydraulic Model](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki)
+[Hydraulic Model](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki): A Delft-3D hydraulic model is used to produce hydraulic model estimates of depth and velocity throughout a site.  Models are run for the discharge at the time of sampling (Surveyed results) and each site has one model using a spring, high flow (Modeled results).   There are separate products of hydraulic model input files, surveyed result files, and modeled result files for each Visit.  
 
-* Inputs
-* Results
+**Substrate Rasters:** A stream-bed roughness raster of a specified grain size (a percentile of a grain size distribution curve) based on ocular substrate size estimates within the bankfull channel.  
 
-Substrate Rasters
+QRF-based habitat capacity: 
 
-[Fish-Habitat Model Products](): A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software
+**Fish-Habitat Model Products:** A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software  
 
-* **habitat suitability index (HSI)-based capacity:** 
-* **fuzzy inference (FIS) habitat capacity version 1:**
-* **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.
-[* **NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake
-* **QRF capacity:**
-
- 
-
-
-
-Fish-Habitat Models (Fuzzy Inference): In 2017 the Fish-Habitat models were updated to include 
-
-NREI
+* **habitat suitability index (HSI)-based capacity:** Depth, velocity and substrate rasters are used in habitat suitability curves to produce estimates of habitat capacity.
+* **fuzzy inference (FIS) habitat capacity version 1:** Depth, velocity and substrate inputs are used in a fuzzy inference system to produce estimates of habitat capacity.  
+* **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.  
+* [**NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake models use the velocity and depth rasters from hydraulic models, temperature, and drifting invertebrate biomass information to estimate of energetic-based habitat capacity for the site.
 
 #### Retired file types
 
-Site Geodatabases and Survey Geodatabases were retired after the 2016 field season.  These files utilized the proprietary ESRI 'geodatabase' file format and have been replaced by the 'Site Properties' and 'Topographic File' products.
-
+Site Geodatabases and Survey Geodatabases were retired after the 2016 field season.  These files utilized the proprietary ESRI 'geodatabase' file format and have been replaced by the 'Site Properties' and 'Topographic File' products. They are available upon request. 
 
 
 ### Where do I find these files?
 
-##### Site Documents:
+##### Site Documents: 
 
 ##### Visit Documents:
 
