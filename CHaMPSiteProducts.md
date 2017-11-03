@@ -9,7 +9,7 @@ Visit-specific summaries of physical site features at the time of sampling.  Tab
 * topographic
 * topographic-auxiliary   
 
-Final metrics are accessible from the [CHaMP Workbench](workbench.northarrowresearch.com) or CHaMPmonitoring.org (Metrics tab). QA metrics are also available from these locations if a User has the appropriate Permissions.  
+Final metrics are accessible from the [CHaMP Workbench](http://workbench.northarrowresearch.com) or CHaMPmonitoring.org (Metrics tab). QA metrics are also available from these locations if a User has the appropriate Permissions.  
 
 ### [2. Site Properties]([https://riverscapes.github.io/CHaMPAutomation/engines/SiteProps.html](https://www.google.com/url?q=https%3A%2F%2Friverscapes.github.io%2FCHaMPAutomation%2Fengines%2FSiteProps.html&sa=D&sntz=1&usg=AFQjCNE9b4jDBhEyhPn2Ym4g_CsFqOjHbg)):
 Topographic control networks for each site packaged for scouting map generation, crew evaluation and use, and upload to total stations. Files are available from the Site Documents tab of champmonitoring.org.  
