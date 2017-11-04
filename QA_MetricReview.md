@@ -39,7 +39,7 @@ Repeat the metric download process throughout the QA season if any updates are m
 
    * Add notes to applicable records ([see #4 of QA Status tab](https://southforkresearch.github.io/CHaMP-Management/QA_QAStatus.html)).  
 
-8. Review Metric Plots. The Workbench has a preset list of Plot Types to Review for QA. 
+8. Review Metric Plots. The Workbench has a preset list of Plot Types to Review for QA. If you do not see Plots for Aux Visit metrics, update your Workbench using the Help menu option.  Metric Plots are not available for Tier 1, Tier 2, and Channel Unit Schemas.
 
    If a suspect metric value appears, find the suspect metric in the grid and review all metrics for the Visit  and select one of the following conditions.  Options for adding notes are described in [QA Status](QA_QAStatus.md)
 
