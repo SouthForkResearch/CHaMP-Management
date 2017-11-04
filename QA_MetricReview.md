@@ -45,6 +45,11 @@ Repeat the metric download process throughout the QA season if any updates are m
 
    * Spurious value is not valid due to confirmed field collection issue (operator error, equipment error, or not measured).  Update or remove source data and make a note on the Record or Measurement Type.
    * Spurious value is valid but an outlier.  Leave the metric and the source data and make a note. Include speculations on why the outlier may have occurred (e.g. log jam, turbid water, high flows, etc.)
+   
+A few items to note: 
+* Fish Cover Undercut values only apply to 2011.  Ignore zeros and nulls for all other years.
+* Bankfull Depth and Bankfull Volume values are not available via the topographic metrics.  Final metric values for these are from the River Bathymetry Toolkit, which was retired in 2016. 
+* Residual Depth values exist for ALL channel units in the Channel Unit tables, but only values for SlowWater/Pools are summarized for the Residual Pool Depth metric.
 
 9. If any source data are updated, review updated metrics after the metric engines have been run again.
 
