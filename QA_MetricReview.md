@@ -34,7 +34,7 @@ Repeat the metric download process throughout the QA season if any updates are m
    If unexpected nulls exist:
 
    * Check the Measurement data on [champmonitoring.org](www.champmonitorig.org) to ensure the appropriate source data exists and [data upload](QA_DataUpload.md) is complete for the source data.
-   * If the metric is derived from topographic data, open the Project from the [CHaMP Toolbar](champtools.northarrowresearch.com/) and [Run Validation](champtools.northarrowresearch.com/7_finalize/validate_data/).
+   * If the metric is derived from topographic data, open the Project from the [CHaMP Toolbar](http://champtools.northarrowresearch.com/) and [Run Validation](http://champtools.northarrowresearch.com/7_finalize/validate_data/).
 
 
    * Add notes to applicable records ([see #4 of QA Status tab](https://southforkresearch.github.io/CHaMP-Management/QA_QAStatus.html)).  
