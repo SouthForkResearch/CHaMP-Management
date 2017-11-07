@@ -9,7 +9,7 @@ Any issues encountered in the Review process should be documented in [JIRA ](htt
 
 ![Select Visits](https://southforkresearch.github.io/CHaMP-Management/images/WB_SelectVisits.png)
 
-5. [Download metrics](workbench.northarrowresearch.com/Data_Menu/download_metrics.html) using the Metric Download option from the Data menu.  This will download metrics directly from CHaMPmonitoring.org into the Workbench and will take a few minutes. Select these [Schemas](MetricSchemas.md) for download: 
+5. [Download metrics](http://workbench.northarrowresearch.com/Data_Menu/download_metrics.html) using the Metric Download option from the Data menu.  This will download metrics directly from CHaMPmonitoring.org into the Workbench and will take a few minutes. Select these [Schemas](MetricSchemas.md) for download: 
 
 QA - Aux Channel Metrics (CHaMP)  
 QA - Aux Tier 1 Metrics (CHaMP)  
