@@ -2,7 +2,7 @@
 
 Any issues encountered in the Review process should be documented in [JIRA ](https://trackisemp.atlassian.net/issues/?filter=10501).
 
-1. Download the [Workbench Software](workbench.northarrowresearch.com) and database to your machine.
+1. Download the [Workbench Software](http://workbench.northarrowresearch.com/) and database to your machine.
 2. Open CHaMP Workbench. Once installed, the easiest way to find it is to search for 'CHaMP' on your computer (this works in Windows 8 or higher). 
 3. Ensure the Visits for review are in the main list of visits in the Workbench.  If not, [Sync Watersheds, Sites and Visits](workbench.northarrowresearch.com/Data_Menu/synchronize_champ_data.html) into the Workbench and re-check.
 4. Select visits for metric review.  Use the year, protocol and watershed filters or select Visits individually in the main visit inventory.  Rows will be blue when selected.  Hold the Shift Key down to select multiple Visits.
@@ -23,7 +23,7 @@ QA - TopoAux Visit Metrics (CHaMP)
 
 Repeat the metric download process throughout the QA season if any updates are made to the topographic or Measurement data.
 
-6.  Open the [Metric Review](workbench.northarrowresearch.com/Tools_Menu/Metrics/metric_review.html) window from the Tools menu and select CHaMP.  
+6.  Open the [Metric Review](http://workbench.northarrowresearch.com/Tools_Menu/Metrics/metric_review.html) window from the Tools menu and select CHaMP.  
 
 7.  Sort each metric in the metric grid and review metrics with null values. The following nulls are acceptable:
 
