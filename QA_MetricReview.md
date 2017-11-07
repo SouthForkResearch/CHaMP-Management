@@ -29,11 +29,11 @@ Repeat the metric download process throughout the QA season if any updates are m
 
    * Side channel metrics if no side channels exist.
    * Tier 1, Tier 2, and Channel Unit metrics if the Channel Unit Type does not exist at the site.  
-   * A method was not completed at a site (e.g. no Pebble counts will result in null D16, D50, and D84 values). Please add notes in [champmonitoring.org](www.champmonitoring.org) if this is the case.
+   * A method was not completed at a site (e.g. no Pebble counts will result in null D16, D50, and D84 values). Please add notes in [champmonitoring.org](https://www.champmonitoring.org/) if this is the case.
 
    If unexpected nulls exist:
 
-   * Check the Measurement data on [champmonitoring.org](www.champmonitorig.org) to ensure the appropriate source data exists and [data upload](QA_DataUpload.md) is complete for the source data.
+   * Check the Measurement data on [champmonitoring.org](https://www.champmonitoring.org/) to ensure the appropriate source data exists and [data upload](QA_DataUpload.md) is complete for the source data.
    * If the metric is derived from topographic data, open the Project from the [CHaMP Toolbar](http://champtools.northarrowresearch.com/) and [Run Validation](http://champtools.northarrowresearch.com/7_finalize/validate_data/).
 
 
