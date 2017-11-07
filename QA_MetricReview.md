@@ -4,7 +4,7 @@ Any issues encountered in the Review process should be documented in [JIRA ](htt
 
 1. Download the [Workbench Software](http://workbench.northarrowresearch.com/) and database to your machine.
 2. Open CHaMP Workbench. Once installed, the easiest way to find it is to search for 'CHaMP' on your computer (this works in Windows 8 or higher). 
-3. Ensure the Visits for review are in the main list of visits in the Workbench.  If not, [Sync Watersheds, Sites and Visits]http://workbench.northarrowresearch.com/Data_Menu/synchronize_champ_data.html) into the Workbench and re-check.
+3. Ensure the Visits for review are in the main list of visits in the Workbench.  If not, [Sync Watersheds, Sites and Visits](http://workbench.northarrowresearch.com/Data_Menu/synchronize_champ_data.html) into the Workbench and re-check.
 4. Select visits for metric review.  Use the year, protocol and watershed filters or select Visits individually in the main visit inventory.  Rows will be blue when selected.  Hold the Shift Key down to select multiple Visits.
 
 ![Select Visits](https://southforkresearch.github.io/CHaMP-Management/images/WB_SelectVisits.png)
