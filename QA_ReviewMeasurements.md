@@ -12,7 +12,7 @@
 
  ![Measurement Review Counts](https://southforkresearch.github.io/CHaMP-Management/images/MeasurementReview_Counts.png)
 
-   Visits with exceptional values or subject to non-repairable data loss should be noted in the [QA Notes](QA_QAStatus.md) tab. 
+   Visits with exceptional values or subject to non-repairable data loss should be noted in the QA Notes tab (see #3 of the [QA Status](QA_QAStatus.md) information page for instructions on how to add notes). 
 
 2. Review graphs of key [Measurement Type](MeasurementTypes.md) values listed below.  These checks target metadata and values not captured in Metric Review.
 
