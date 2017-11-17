@@ -6,10 +6,15 @@
 [Measurement Types](MeasurementTypes.md)  
 [Measurement Definitions](https://www.dropbox.com/s/yo4f600ta6cx80l/ChampMeasurementsDD_DefinitionsRefined.xlsx?dl=0)
 
-## Measurements Database (AllMeasurements.mdb)
-The Measurements database holds all auxiliary measurement data collected by crews.  The database is generated as an automated export from CHaMPmonitoring.org and contains the same Measurement Type views of data that are available on the website.  All years and Visits are included in the database, regardless of Program and status of the data.
+## Measurements Database 
+The Measurements database ((AllMeasurements.mdb) holds all auxiliary measurement data collected by crews.  The database is generated as an automated [Data Export](https://www.champmonitoring.org/DataExport/Details/1#tab-overview) from CHaMPmonitoring.org and contains the same Measurement Type views of data that are available on the website.  All years and Visits are included in the database, regardless of Program and status of the data.
 
 [Relational diagram](https://docs.google.com/drawings/d/1mwOBBqhOaxtIhiG88oEwJLpeDb3T_zjKk8JS9MKoScs/edit) (in progress)
+
+## Temperature Database
+Separate databases store the Measurement and Metric data available from CHaMP.  
+
+The Metrics database is a standard [Data Export](https://www.champmonitoring.org/DataExport/Details/1#tab-overview) generated monthly by CHaMPMonitoring.org. 
 
 ## Other Measurement Data
 
