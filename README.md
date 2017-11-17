@@ -7,7 +7,7 @@
 ### Training
 
 ### [Data Management](DataManagement.md)
-#### - File List (carol, andy, jeremiah)
+#### - File List 
 - custody form, files and packages, temp files (air, stream, hobo), survey files (total station), survey files, processed data files, sun eye files, scanned forms, QA files
 
 ### [Software and Data Systems](OtherSoftware.md)
@@ -19,10 +19,9 @@
 - [Toolbar/survey gdb](TopoDataProcessing.md)
 - [sun eye photos](DataProcessing.md)
 - [hoboware](DataProcessing.md)
-- QA protocols
 - [Topographic Toolbar](CHaMP Topographic Toolbar.md)
 - Survey Data Format  y by y summary
-- Data Broker (Sitka)
+- Data Broker
 
 ### [QA](QAMain.md)
 - data flow
@@ -31,9 +30,6 @@
 ### [Measurements](MeasurementsMainPage.md)
 
 ### [Metrics](MetricsMainPage.md) 
-
-Final datasets (each year, or at least a final data set that covers all years)
-
 - Performance (variance decomposition)
 - Utility-which metrics are used by other models? 
 - What validates
