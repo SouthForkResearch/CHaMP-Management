@@ -2,11 +2,14 @@
 
 ----------
 
-## Data Dictionary
+## Data Dictionary 
 [Measurement Types](MeasurementTypes.md)  
 [Measurement Definitions](https://www.dropbox.com/s/yo4f600ta6cx80l/ChampMeasurementsDD_DefinitionsRefined.xlsx?dl=0)
 
+## Measurements Database (AllMeasurements.mdb)
+The Measurements database holds all auxiliary measurement data collected by crews.  The database is generated as an automated export from CHaMPmonitoring.org and contains the same Measurement Type views of data that are available on the website.  All years and Visits are included in the database, regardless of Program and status of the data.
 
+[Relational diagram](https://docs.google.com/drawings/d/1mwOBBqhOaxtIhiG88oEwJLpeDb3T_zjKk8JS9MKoScs/edit) (in progress)
 
 ## Other Measurement Data
 
