@@ -8,7 +8,7 @@ Validation Messages will be available weekly from Nov 2017-Dec 15 2017. See belo
 
 **Next engine run will be 12/8 and validation result summary will occur by 12/11.
 
-*12/4/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/1B3l4C8So9wMN7K3OvlLa7MwW-IduKXwLu4545SkS7bc/edit?usp=sharing). 2017 visits include "Pass" status messages.
+* 12/4/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/1B3l4C8So9wMN7K3OvlLa7MwW-IduKXwLu4545SkS7bc/edit?usp=sharing). 2017 visits include "Pass" status messages.
 * 11/20/17 [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1xUy_tBL8shNynXUYGCnwQj2HfH_CsDD9FNhvhbNw9mk/edit?usp=sharing)
 * 11/14/17 [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1uy0vW2US9ZkshpHj7ArrEEtoFq1zDTSmo9hdItMTvcA/edit?usp=sharing)  
 * 10/27/17 and 11/16/17 [Validation Results](https://docs.google.com/spreadsheets/d/1R-qc3nZK2_BSg_DiEfR9BJLpmUTJ3TisX1SKqkrXSzg/edit?usp=sharing)
