@@ -36,6 +36,8 @@
 
 ### [Site Products](CHaMPSiteProducts.md)
 
+### [Spatially-Balanced Design Analyses](Design_Analysis.md)
+
 ### Network Models
 
 ### [Riverscapes](http://riverscapes.northarrowresearch.com/)
