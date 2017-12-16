@@ -29,4 +29,4 @@ The spatially-balanced sampling design used by CHaMP can be used to generate des
 
 
 
-Return to [HOME](
+Return to [HOME](README.md)
