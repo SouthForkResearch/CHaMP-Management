@@ -8,6 +8,7 @@ The spatially-balanced sampling design used by CHaMP can be used to generate des
 
 ## File Preparation
 
+### [Evaluations](Design_Evaluations.md)
 
 ### Master sample frame (linear shapefile)
 
