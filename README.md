@@ -36,7 +36,7 @@
 
 ### [Site Products](CHaMPSiteProducts.md)
 
-### [Spatially-Balanced Design Analyses](Design_Analysis.md)
+### [Spatially-Balanced Design Analyses](Design_Analyses.md)
 
 ### Network Models
 
