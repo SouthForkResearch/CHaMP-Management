@@ -1,7 +1,7 @@
 
 
 # Design-Based Analyses
-last updated 12/15/17 
+*last updated 12/15/17* 
 
 The spatially-balanced sampling design used by CHaMP can be used to generate design-based estimates of status and trend for individual metrics at the scale of the design. Since most CHaMP design have a spatial scale of a watershed, the general status and trend estimates for CHaMP metrics are generated for the entire watershed.  
 
@@ -16,7 +16,7 @@ The Master Frame files includes Target and Strata information for 2011-2017 CHaM
 [Master Frame File (12/16/17)](https://www.dropbox.com/s/jm39n90abgx1t8h/MasterFrame_20171216.zip?dl=0)  
 [Metadata](
 
-** Archived Frames ** 
+*Archived Frames* 
 All information in archived frames is available from the Master Frame File. Archived files are not recommended for use.  
 [Master Frame File (3/3/17)](https://www.dropbox.com/s/ykzij6bfvorqg2k/CHaMP_Frames_All_20170303.zip?dl=0)  
 [Master Frame File (7/7/15)](https://www.dropbox.com/s/6dtyi71lexixqrx/CHaMP_Frames_All_20150707.zip?dl=0)  
