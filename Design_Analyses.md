@@ -32,9 +32,7 @@ All information in archived frames is available from the Master Frame File. Arch
 * visits sampled with different protocols, such as "CHaMP Control Network Evaluation" and fish sampling
 7. Import the file created in step 5 into GIS and add X_Albers and Y_Albers attributes.  Calculate coordinates for these attributes using the Albers Equal Area Conic USGS Projection.
 
-### Site Decoder
-
-
+[Visit and Site Strata File (Decoder) 12/15/17](https://www.dropbox.com/s/98g9cv839lbllfo/CHaMP_Visits_Decoder_20171215.xlsx?dl=0)
 
 
 Return to [HOME](README.md)
