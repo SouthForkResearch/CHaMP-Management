@@ -12,14 +12,14 @@ The spatially-balanced sampling design used by CHaMP can be used to generate des
 ### Master sample frame (linear shapefile)
 Each year the shapefile containing the extent of all CHaMP designs is reviewed and updated with current year design information.  Key attributes include TargetYEAR, StrataYEAR, and AStrataYEAR. Target defines the target/non-target domain of the designs, strata defines the stratification attributes used in the development of the design, and AStrata defines the recommended GRTS analysis strata suggested by watershed entities that defined the original design.  
 
-The Master Frame files includes Target and Strata information for 2011-2017 CHaMP sampling designs.
-[Master Frame File (12/16/17)](https://www.dropbox.com/s/jm39n90abgx1t8h/MasterFrame_20171216.zip?dl=0)
+The Master Frame files includes Target and Strata information for 2011-2017 CHaMP sampling designs.  
+[Master Frame File (12/16/17)](https://www.dropbox.com/s/jm39n90abgx1t8h/MasterFrame_20171216.zip?dl=0)  
 [Metadata](
 
 ** Archived Frames ** 
-All information in archived frames is available from the Master Frame File. Archived files are not recommended for use.
-[Master Frame File (3/3/17)](https://www.dropbox.com/s/ykzij6bfvorqg2k/CHaMP_Frames_All_20170303.zip?dl=0)
-[Master Frame File (7/7/15)](https://www.dropbox.com/s/6dtyi71lexixqrx/CHaMP_Frames_All_20150707.zip?dl=0)
+All information in archived frames is available from the Master Frame File. Archived files are not recommended for use.  
+[Master Frame File (3/3/17)](https://www.dropbox.com/s/ykzij6bfvorqg2k/CHaMP_Frames_All_20170303.zip?dl=0)  
+[Master Frame File (7/7/15)](https://www.dropbox.com/s/6dtyi71lexixqrx/CHaMP_Frames_All_20150707.zip?dl=0)  
 
 ### Visit List
 1. Download all Visit .csvs from CHaMPMonitoring.org Visit tab. There will be one .csv per year. The attributes of interest are Primary Visit, VisitID, SiteName and SampleDate. 
