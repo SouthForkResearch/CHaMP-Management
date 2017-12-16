@@ -1,15 +1,17 @@
 
 
 # Design-Based Analyses
-_ last updated 12/15/17.  Workflow updates might be needed as available data sources and technologies are changed.
+last updated 12/15/17.  
 
 The spatially-balanced sampling design used by CHaMP can be used to generate design-based estimates of status and trend for individual metrics at the scale of the design. Since most CHaMP design have a spatial scale of a watershed, the general status and trend estimates for CHaMP metrics are generated for the entire watershed.  
 
 
 ## File Preparation
-The GRTS
+
 
 ### Master sample frame (linear shapefile)
+
+[Master Frame File (12/16/17)](
 
 ### Visit List
 1. Download all Visit .csvs from CHaMPMonitoring.org Visit tab. There will be one .csv per year. The attributes of interest are Primary Visit, VisitID, SiteName and SampleDate. 
@@ -27,4 +29,4 @@ The GRTS
 
 
 
-
+Return to [HOME](
