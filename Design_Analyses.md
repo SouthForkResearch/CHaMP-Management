@@ -14,7 +14,7 @@ Each year the shapefile containing the extent of all CHaMP designs is reviewed a
 
 The Master Frame files includes Target and Strata information for 2011-2017 CHaMP sampling designs.  
 [Master Frame File (12/16/17)](https://www.dropbox.com/s/jm39n90abgx1t8h/MasterFrame_20171216.zip?dl=0)  
-[Metadata](
+[Metadata](https://www.dropbox.com/s/x03szgqbx8qzvam/FrameMetadata_20171216.xlsx?dl=0)
 
 *Archived Frames* 
 All information in archived frames is available from the Master Frame File. Archived files are not recommended for use.  
