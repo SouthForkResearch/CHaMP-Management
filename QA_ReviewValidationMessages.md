@@ -1,4 +1,4 @@
-# Step 7: Review Validation Messages
+# Step 6: Review Validation Messages
 
 All processed topographic data products (TopoData.zip packages) are run through a Validation Engine which runs a [series of checks](https://docs.google.com/spreadsheets/d/1nlVYtqw8S5gsp83_EXSj4BD0Wmtc4AYBp5RUGWdCJGw/edit#gid=584951703) against each topographic file to make sure expected topographic survey products are complete and meet requirements for metric generation.  
 
@@ -6,7 +6,8 @@ Metric engines do not depend on a passing status for all validation messages.  T
 
 Validation Messages will be available weekly from Nov 2017-Dec 15 2017. See below for latest and greatest:
 
-**Next engine run will be 12/15 and validation result summary will occur by 12/18.
+
+**The 12/15 metric run was delayed due to updates in the API deletion process. The next engine run will be 12/21 and validation result summary will occur before 12/25.**
 
 * 12/11/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/13oQxRgN9Hmoj2wwkvxE7g3Flx4MkUV9hJ4A9VhaefB4/edit?usp=sharing).
 * 12/4/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/1B3l4C8So9wMN7K3OvlLa7MwW-IduKXwLu4545SkS7bc/edit?usp=sharing). 2017 visits include "Pass" status messages.
