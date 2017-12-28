@@ -39,7 +39,7 @@ A set of juvenile and spawner habitat model products ready produced using a pres
 * **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.  Products available from the Visit Documents tab of champmonitoring.org in early 2018 for the subset of CHaMP sites where this model has been run.  
 * [**NREI**](http://isemp.org/projects/nrei/): Net Rate Energy Intake models use the velocity and depth rasters from hydraulic models, temperature, and drifting invertebrate biomass information to estimate of energetic-based habitat capacity for the site.  Products available from the Visit Documents tab of champmonitoring.org in early 2018 for 2011-2016 Visits.  
 
-### **[9. Globally Available Attributes:](GloballyAvailableAttributes.md)**
+### **[9. Globally Available Attributes](GloballyAvailableAttributes.md)**
 
 ### Retired file types
 Site Geodatabases and Survey Geodatabases were retired after the 2016 field season.  These files utilized the proprietary ESRI 'geodatabase' file format and have been replaced by the 'Site Properties' and 'Topographic File' products. They are available upon request. 
