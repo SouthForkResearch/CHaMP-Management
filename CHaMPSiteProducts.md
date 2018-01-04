@@ -29,7 +29,8 @@ Result products that begin with "S" are for surveyed flows (summer low flows at 
 ### **6. Substrate Rasters:** 
 A stream-bed roughness raster of a specified grain size (a percentile of a grain size distribution curve) based on ocular substrate size estimates within the bankfull channel.  Rasters will be available from the Visit Documents tab in January 2018).  
 
-### 7. QRF-based habitat capacity: 
+### **7. QRF-based habitat capacity:**  
+A quantile regression forest model has been developed to estimate carrying capacity from paired fish and habitat sampling, including a number of CHaMP metrics. Versions of QRF capacity estimates exist for Chinook summer parr, Chinook redds, juvenile steelhead and steelhead redds. These estimates can be found through Riverscapes.
 
 ### **8. Fish-Habitat Model Products:** 
 A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software: 
