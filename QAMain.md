@@ -30,7 +30,9 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 8: Visit Promotion](QA_VisitPromotion.md)
 
-[Step 9: Metric Release](QA_MetricRelease.md)
+[Step 9: Program Metric Review](Review_ProgramMetricsXYear.md)
+
+[Step 10: Metric Release](QA_MetricRelease.md)
 
 ### Reference Manuals:
 * [Temperature Data Review](https://www.dropbox.com/s/fi1bi5je3scsy9g/CM.org%20-%20StreamTempQAProtocol_2014.pdf?dl=0)
