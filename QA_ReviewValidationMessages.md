@@ -7,8 +7,9 @@ Metric engines do not depend on a passing status for all validation messages.  T
 Validation Messages will be available weekly from Nov 2017-Dec 15 2017. See below for latest and greatest:
 
 
-**The 12/15 metric run was delayed due to updates in the API deletion process. The next engine run will be 12/21 and validation result summary will occur before 12/25.**
+**We are currently preparing the FINAL program datasets and are not doing full-reruns of all CHaMP Visits through the metric engines. Individual visits can be requested for metric running at any time (contact Carol).** 
 
+* 12/23/17  [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1Eo0bCXDp3_r1rihdP4-2y-RgQQQnqLZk676z113WYLk/edit?usp=sharing)
 * 12/11/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/13oQxRgN9Hmoj2wwkvxE7g3Flx4MkUV9hJ4A9VhaefB4/edit?usp=sharing).
 * 12/4/17 [Validation Results (all Years)](https://docs.google.com/spreadsheets/d/1B3l4C8So9wMN7K3OvlLa7MwW-IduKXwLu4545SkS7bc/edit?usp=sharing). 2017 visits include "Pass" status messages.
 * 11/20/17 [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1xUy_tBL8shNynXUYGCnwQj2HfH_CsDD9FNhvhbNw9mk/edit?usp=sharing)
