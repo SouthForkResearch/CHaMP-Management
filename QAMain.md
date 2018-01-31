@@ -34,7 +34,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 10: Metric Release](QA_MetricRelease.md)
 
-[Step 11: Watershed Review and Wrap-Up 2017](CHaMP Watershed Wrap-Up.md)
+[Step 11: Watershed Review and Wrap-Up 2017](CHaMP Watershed Wrap-Up .md)
 
 ### Reference Manuals:
 * [Temperature Data Review](https://www.dropbox.com/s/fi1bi5je3scsy9g/CM.org%20-%20StreamTempQAProtocol_2014.pdf?dl=0)
