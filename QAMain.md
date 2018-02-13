@@ -36,6 +36,8 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 
 [Step 11: Watershed Review and Wrap-Up 2017](CHaMP_Watershed_WrapUp.md)
 
+[Step 12: Data Archive](QA_DataArchive.md)
+
 ### Reference Manuals:
 * [Temperature Data Review](https://www.dropbox.com/s/fi1bi5je3scsy9g/CM.org%20-%20StreamTempQAProtocol_2014.pdf?dl=0)
 * Stream Temperature Videos  
