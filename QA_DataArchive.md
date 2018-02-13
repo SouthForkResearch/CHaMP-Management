@@ -3,12 +3,11 @@
 The following steps can be taken to archive a full suite of measurement, metric and model products for CHaMP.  We recommend saving these products in a folder called CHaMP_ProductsDL_YEARMMDD  on a local server. Archiving a local copy of the data should be repeated annually or after major updating and processing events.
 
 ### Files, Metrics and Model Products
-1. Download Measurements database from the Data Exports tab of champmonitoring.org
-2. Download Metrics .csv from the Workbench (Tools/Review Metrics)
-3. Save a copy of your Active version of the SQL Workbench database 
-3. Download files 
+From CHaMPMonitoring.org:
+1. Download Measurements database, Study Design database, and Temperature Metrics database from the Program-wide Data Exports tab 
+2. Download Temperature Measurements Database from the Data Exports tab of EACH WATERSHED of interest.  Temperature Measurements databases are only available on Watershed-specific Export tabs due to file sizes. 
 
-### Temperature Measurements and Metrics
-- Download Temperature Measurements Database
-- Download Temperature Metrics Database
-- Download CHaMP Measurements Database 
+From the CHaMP Workbench:
+3. Download Metrics .csv from the Workbench (Tools/Review Metrics)
+4. Save a copy of your Active version of the SQL Workbench database 
+
