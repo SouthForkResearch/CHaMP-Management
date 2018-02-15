@@ -12,6 +12,8 @@
 
 [Design Tracking](https://docs.google.com/spreadsheets/d/1FdUHUPBIRm5FxJNf6RY84oyeMKRgcwPNWDX1B3NQ6Vw/edit?usp=sharing_)
 
+See [Spatially-Balanced Design Analyses](Design_Analyses.md) for information on the follow-up analysis procedures for GRTS-based designs.
+
 
 
 ## Process
