@@ -35,6 +35,8 @@ A quantile regression forest model has been developed to estimate carrying capac
 ### **8. Fish-Habitat Model Products:** 
 A set of juvenile and spawner habitat model products ready produced using a preset suite of fish-habitat relationships.  There are several fish-habitat models produced by the [Habitat Model](habitat.northarrowresearch.com) software: 
 
+### **9. 2016 GCD Products:**
+
 * **habitat suitability index (HSI)-based capacity:** Depth, velocity and substrate rasters are used in habitat suitability curves to produce estimates of habitat capacity. Products available from the Visit Documents tab of champmonitoring.org.  
 * **fuzzy inference (FIS) habitat capacity version 1:** Depth, velocity and substrate inputs are used in a fuzzy inference system to produce estimates of habitat capacity.  Products available from the Visit Documents tab of champmonitoring.org.  
 * **fuzzy inference (FIS) habitat capacity version 2:** In 2017, the fuzzy inference habitat capacity models were updated to include structural elements and aspects of fish cover.  Products available from the Visit Documents tab of champmonitoring.org in early 2018 for the subset of CHaMP sites where this model has been run.  
