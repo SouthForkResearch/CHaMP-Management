@@ -25,7 +25,7 @@
 
 ### [QA](QAMain.md)
 - data flow
-- [Metric Validation](Metric Validation.md)
+- [Metric Validation](Metric_Validation.md)
 
 ### [Measurements](MeasurementsMainPage.md)
 
