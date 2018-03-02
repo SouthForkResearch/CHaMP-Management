@@ -16,4 +16,4 @@ This page contains links to tools and code that generate products or are used to
 
 [Substrate Raster Engine](https://southforkresearch.github.io/CHaMP_Metrics/docs/substrate.html): Generates a raster file of substrate size from champ topographic and auxillary data.
 
-[HOME](index.md)
+[HOME](README.md)
