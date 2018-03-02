@@ -2,7 +2,7 @@
 # Software and Data Systems
 This page contains links to tools and code that generate products or are used to manage champ files and visits.
 
-[CHaMP Workbench](workbench.northarrowresearch.com): Desktop tool for managing Visits, Metrics, Metric Review, and Metric Generation.
+[CHaMP Workbench](http://workbench.northarrowresearch.com/): Desktop tool for managing Visits, Metrics, Metric Review, and Metric Generation.
 
 CHaMP Automation (all things AWS structure)
 
