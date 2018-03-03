@@ -25,7 +25,11 @@ Data Flow
 
 - <u>Fall 2016</u>: Transition of RBT engines from champmonitoring.org begins and RBT engines are manually triggered in a non-champmonitoring.org server environment (SFR).
 
-- <u>Summer 2017:</u> Update of Data Management Plan, Modularization Effort wrap up, including retirement of laptop Data Broker and RBT engines
+- <u>Summer 2017:</u> Update of Data Management Plan, Modularization Effort wrap up, including retirement of laptop Data Broker and RBT engines.  Laptop Data Broker was replaced by the Field Data Upload Utility and the RBT engine was replaced with the Topographic Metric scripts.
+
+- <u>Summer-Fall 2017:</u> Completion of the API. This allowed Workbench software updates to sync watersheds, sites, and visits directly to CHaMPMonitoring.org, Download/Upload Metrics to CHaMPMonitoring.org, and pull files from CHaMPMonitoring.org.
+
+
 
   ​
 
