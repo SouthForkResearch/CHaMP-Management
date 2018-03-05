@@ -39,6 +39,7 @@ and end-of-hitch validation performed while publishing data in the Data Broker
 [Step 12: Data Archive](QA_DataArchive.md)
 
 ### Reference Manuals:
+* [Updating 2011-2016 topo surveys using the 2017 Toolbar](QA_Update_pre2017surveys.md)
 * [Temperature Data Review](https://www.dropbox.com/s/fi1bi5je3scsy9g/CM.org%20-%20StreamTempQAProtocol_2014.pdf?dl=0)
 * Stream Temperature Videos  
     [Validating Data Upload](https://www.champmonitoring.org/Program/RetrieveProgramDocumentFile/Tab/1177)  
