@@ -39,5 +39,7 @@
 
 ### [Outreach](CHaMP_Outreach.md)
 
+### [CHaMP in 2018 and Beyond](ConsiderationsforDataUse.md)
+
 https://southforkresearch.github.io/CHaMP-Management/
 
