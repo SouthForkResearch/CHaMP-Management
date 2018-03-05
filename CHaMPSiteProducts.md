@@ -26,6 +26,8 @@ A Delft-3D hydraulic model is used to produce hydraulic model estimates of depth
 
 Result products that begin with "S" are for surveyed flows (summer low flows at time of topographic survey).  Result products that begin with "M" are for modeled flows (usually spring high flows at the time of topographic survey).  
 
+[CHaMP Hydraulic Models Inventory](https://docs.google.com/spreadsheets/d/1W9kVoatVREc4Wru7jgB3a6Si69gX71MwQ2pfcWZ-UW4/edit?usp=sharing)  
+
 ### **6. Substrate Rasters:** 
 A stream-bed roughness raster of a specified grain size (a percentile of a grain size distribution curve) based on ocular substrate size estimates within the bankfull channel.  Rasters will be available from the Visit Documents tab in January 2018).  
 
