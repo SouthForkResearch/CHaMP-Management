@@ -48,8 +48,9 @@ Repeat the metric download process throughout the QA season if any updates are m
    
 A few items to note: 
 * Fish Cover Undercut values only apply to 2011.  Ignore zeros and nulls for all other years.
-* Bankfull Depth and Bankfull Volume values are not available via the topographic metrics.  Final metric values for these are from the River Bathymetry Toolkit, which was retired in 2016. 
-* Residual Depth values exist for ALL channel units in the Channel Unit tables, but only values for SlowWater/Pools are summarized for the Residual Pool Depth metric.
+* Bankfull Depth and Bankfull Volume values are not available via the topographic metrics.  Final metric values for these are from the River Bathymetry Toolkit, which was retired in 2016. Update: These metrics are now available via Final topographic metric scripts, but calculation methods are slightly different than RBT. 
+* Residual Depth values exist for ALL channel units in the Channel Unit tables, but only values for SlowWater/Pools are summarized for the Residual Pool Depth metric.  
+* Guidelines for Updating 2011-2016 surveys using the 2017 toolbar are available [here](QA_Updates_pre2017surveys.md)  
 
 9. If any source data are updated, review updated metrics after the metric engines have been run again.
 
