@@ -2,19 +2,11 @@ Site Reoccupation/Transformation
 Scenarios
 
 
-||Unprojected FDS/Folder Exists|GCD?|Notes
-New Visit
-Yes
-N/A
-Normal
-Visit Reoccupied (missing 0-1 bm’s)
-No
-Yes
-Normal
-Crew Error
-Yes
-Maybe*
-Crew used toolbar incorrectly
+|   |Unprojected FDS/Folder Exists|GCD?|Notes|
+|---|-----------------------------|---|------|
+|New Visit|Yes|N/A|Normal|
+Visit Reoccupied (missing 0-1 bm’s)|No|Yes|Normal|
+|Crew Error|Yes|Maybe*|Crew used toolbar incorrectly|
 Out of Tolerance
 Yes
 Maybe*
