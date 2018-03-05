@@ -1,4 +1,4 @@
-<h2>CHaMP 2017 Toolbar Repair Process for Required Updates</h2>
+<h2>CHaMP 2017 Toolbar Process for Required Updates</h2>
 <p>Date: August 30, 2017</br>
 Toolbar version: 7.0.20.0.</br>
 Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
@@ -6,9 +6,9 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
 
 <h3>Introduction</h3>
 
-<p>As the CHaMP project grows, updates to the data requirements necessitate changes to the tools. Previous surveys need to be brought up to current standards in order to facilitate metrics generation and continued use. The repairs listed below will bring the CHaMP survey up to the standards of the 2017 CHaMP toolbar version 7.0.20.0 and the latest Topo Metric Engine. This version of the toolbar is the first to be compatible with open source shapefile data, and survey data will now be stored and repaired within a standard Topo Data folder rather than using a survey geodatabase. The repair process below is ordered to facilitate ease and lessen the chance of encountering errors. Also, you should create a ReadME Text document listing the repairs you performed for each survey. Please note that these instructions assume a familiarity with ArcGIS and its included Toolboxes.</p>
+<p>As the CHaMP project grows, updates to the data requirements necessitate changes to the tools. Previous surveys need to be brought up to current standards in order to facilitate metrics generation and continued use. The updates listed below will bring the CHaMP survey up to the standards of the 2017 CHaMP toolbar version 7.0.20.0 and the latest Topo Metric Engine. This version of the toolbar is the first to be compatible with open source shapefile data, and survey data will now be stored within a standard Topo Data folder rather than using a survey geodatabase. The process below is ordered to facilitate ease and lessen the chance of encountering validation errors. Also, you should create a ReadME Text document listing the repairs you performed for each survey. Please note that these instructions assume a familiarity with ArcGIS and its included Toolboxes.</p>
 
-<h3>Getting CHaMP Data to Repair</h3>
+<h3>Getting CHaMP Data to Update</h3>
 
 <h4>CHaMP Topo Processing Toolbar</h4>
 <ul>
@@ -90,7 +90,7 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
 	<li>Open ArcGIS and select the <strong>Workflow Manager</strong> icon from the Toolbar, which will dock the Workflow Manager into your ArcMap document.</li>
 	    <li>Click "Open Existing" at the top of the Workflow Manager.</li>
 	<li>Navigate to the TopoData folder for your visit and select the <strong>project.rs.xml</strong> file inside.</li>	
-	    <li>This will load the survey into the Manager and you are ready to start repairing!</li>
+	    <li>This will load the survey into the Manager and you are ready to start updating!</li>
 </ul>
 
 <hr>
@@ -99,7 +99,7 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
 
 <h4>Validate Data</h4>	
 <ul>
-        <li><strong>Validate Data</strong> is the guide to finding the necessary repairs. Necessary repairs will be displayed in the Validate Data window, which you can open by double-clicking "Validate Data" under Finalize in the Workflow Manager.</li>
+        <li><strong>Validate Data</strong> is the guide to finding the necessary updates. Necessary repairs will be displayed in the Validate Data window, which you can open by double-clicking "Validate Data" under Finalize in the Workflow Manager.</li>
         <li><strong>The 3 types of issues displayed by the tool include:</strong></li>
         <ul>
                  <li>Error (red 'x'): Must be repaired in order to republish survey.</li>
@@ -125,7 +125,7 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
 
 <h4>Missing Features</h4>
 <ul>
-         <li>Any feature required for repair (ie. from the section "<u>Checks/Repairs to do Before you Open the Survey with the CHaMP Toolbar</u>" above or "<u>Survey Features and Surface</u>" below) found to be missing during repair should be acquired by:    
+         <li>Any feature required for update (ie. from the section "<u>Checks/Repairs to do Before you Open the Survey with the CHaMP Toolbar</u>" above or "<u>Survey Features and Surface</u>" below) found to be missing during repair should be acquired by:    
          <ul>
                  <li>Downloading the survey geodatabase (not corrected) for the visit ID from the CHaMP Monitoring website.</li>
                  <li>Unzip the geodatabase into the Visit ID folder.</li>
@@ -140,7 +140,7 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
          </ul>
 </ul>
 
-<h4>Order of Repair and Dependencies</h4>	
+<h4>Order of Updates and Dependencies</h4>	
 
 <p>The following is the suggested order for repair. Generally, you should follow the order of operations outlined in the Workflow Manager. However, some fixes may affect other files in the data and require recreation or editing of related features. This document will attempt to provide an outline of which features are dependent on or affected by other features. This will be noted in an "<u>Affected Layers</u>" section for each layer. If this section is not listed, that means this feature does not affect other features in the Topo Data folder.</p>
 
@@ -148,7 +148,7 @@ Created by: Arielle A. Gervasi, South Fork Research, Inc.</p>
 
 <h3>Survey Features and Surfaces</h3>
 
-<p>These are the underlying points and surfaces that help inform the creation of the Channel Features. Thus, these should be repaired first before going through the Workflow Manager in order.</p>
+<p>These are the underlying points and surfaces that help inform the creation of the Channel Features. Thus, these should be updated first before going through the Workflow Manager in order.</p>
 
 <h3>Recreate the DEM</h3>
 
@@ -365,7 +365,7 @@ There are two options for repair:</li>
 	    <li>If you receive the message: "The elevation at start of Thalweg is not the required elevation," and you have already verified that the "in" and "out" flow Topo Points are designated and on the correct ends of the survey extent, recreate the Thalweg.</li>
 </ul>
 
-<p><strong>When to Repair</strong></p>
+<p><strong>When to Update</strong></p>
 <ul>
 	<li>The Thalweg passes outside the WaterExtent or off the WSEDEM. This can happen if:</li>
 	    <ul>
@@ -607,7 +607,7 @@ There are two options for repair:</li>
 
 <hr>
 
-<h3>Reload Repaired Survey Data</h3>
+<h3>Reload Updated Survey Data</h3>
 <ul>
 	<li>Once the survey is repaired, Run the <strong>Publish Final Geodatabase</strong> tool.</li>
 	<li>Go to the <strong>Geooptix Field Data Explorer</strong> website at:</li>
