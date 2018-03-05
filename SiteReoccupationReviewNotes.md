@@ -14,8 +14,8 @@ Visit Reoccupied (missing 0-1 bm’s)|No|Yes|Normal|
 |Missing 2 benchmarks|Yes|Maybe*|in office used manual affine/rotation/elevation to best fit survey. Use previous hinge if at all possible.|
 |Missing 3 Benchmarks|Yes|No|Control Network Reset. Occasionally use manual best fit to align with orientation of previous surveys, but elevation will not be the same.|
 |LiDAR|“Transformation” FDS may exist (in custom folder for topo projects?)|Y|Previous surveys were re-transformed if control points  were captured for LiDAR control network.|
-|RTK|No|Yes|It would be good to have a Point Quality or uncertainty for the benchmarks for these visits.|
-*An expert’s assessment would be required to determine if GCD results are representative in these cases. Higher uncertainty should be used in these cases.*
+|RTK|No|Yes|It would be good to have a Point Quality or uncertainty for the benchmarks for these visits.|  
+* *An expert’s assessment would be required to determine if GCD results are representative in these cases. Higher uncertainty should be used in these cases.*
 ## Ideal Assessment Procedure  
 Capture the Timeline of the Control Network for a site.  
 * Instances of Transformation Tool use (unexpected “Unprojected” instance)  
