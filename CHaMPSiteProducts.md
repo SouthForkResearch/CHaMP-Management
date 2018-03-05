@@ -21,15 +21,15 @@ Files are available from the Field Data Upload Utility tool of champmonitoring.o
 ### **4. CAD Files (Visit-specific):**  
 Post-processed topographic survey files in a CAD-friendly file format. These files are a specific subset of topographic survey products. Files are available from the Visit Documents page of champmonitoring.org (CADExport.zip)  
 
-### [5. Hydraulic Model](https://github.com/SouthForkResearch/Hydraulic-Modeling/wiki): 
+### [5. Hydraulic Model](https://southforkresearch.github.io/Hydraulic-Modeling/): 
 A Delft-3D hydraulic model is used to produce hydraulic model estimates of depth and velocity throughout a site.  Models are run for the discharge at the time of sampling (Surveyed results) and each site has one model using a spring, high flow (Modeled results).   There are separate products of hydraulic model input files, surveyed result files, and modeled result files for each Visit and are available from the Visit Documents tab of champmonitoring.org.   
 
 There are 4 types of files affiliated with hydraulic models that are available on the Visit Documents tab:
 
 * *_Hydraulic Model Inputs_*: Topographic files prepped for input to the Delft Hydraulic Model.
 * *_Hydraulic Model Result_*: Model result files. Products that begin with "S" are for surveyed flows (summer low flows at time of topographic survey).  Result products that begin with "M" are for modeled flows (usually spring high flows at the time of topographic survey).  
-* *_Hydraulic Model GIS files_*: Model result files transformed into GIS-friendly shapefiles and rasters.  
-* *_High Flow_* Hydraulic model products:  The Hydraulic model was run at a 'spring' (April) high flow Q for one Visit per site.  See the "M" visits in the Inventory (below).
+* *[_Hydraulic Model GIS files_](https://southforkresearch.github.io/CHaMP_Metrics/docs/hydro_export.html)*: Model result files transformed into GIS-friendly shapefiles and rasters.  
+* *[_High Flow_* Hydraulic model products](https://southforkresearch.github.io/Hydraulic-Modeling/):  The Hydraulic model was run at a 'spring' (April) high flow Q for one Visit per site.  See the "M" visits in the Inventory (below).
 
 [CHaMP Hydraulic Models Inventory](https://docs.google.com/spreadsheets/d/1W9kVoatVREc4Wru7jgB3a6Si69gX71MwQ2pfcWZ-UW4/edit?usp=sharing)  
 
