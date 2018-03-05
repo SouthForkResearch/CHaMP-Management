@@ -5,6 +5,7 @@ In 2017 the topographic survey validation process was scoped to contain checks f
 
 Here we outline potential sources and outcomes of reoccupation issues that may be a result of 2011-2017 survey procedures, equipment, processing workflow, transformations, and data merging.  
 
+
 |   |Unprojected FDS/Folder Exists|GCD?|Notes|
 |---|-----------------------------|---|------|
 |New Visit|Yes|N/A|Normal|
@@ -15,7 +16,9 @@ Visit Reoccupied (missing 0-1 bm’s)|No|Yes|Normal|
 |Missing 3 Benchmarks|Yes|No|Control Network Reset. Occasionally use manual best fit to align with orientation of previous surveys, but elevation will not be the same.|
 |LiDAR|“Transformation” FDS may exist (in custom folder for topo projects?)|Y|Previous surveys were re-transformed if control points  were captured for LiDAR control network.|
 |RTK|No|Yes|It would be good to have a Point Quality or uncertainty for the benchmarks for these visits.|  
-* *An expert’s assessment would be required to determine if GCD results are representative in these cases. Higher uncertainty should be used in these cases.*
+
+
+*An expert’s assessment would be required to determine if GCD results are representative in these cases. Higher uncertainty should be used in these cases.*  
 ## Ideal Assessment Procedure  
 Capture the Timeline of the Control Network for a site.  
 * Instances of Transformation Tool use (unexpected “Unprojected” instance)  
