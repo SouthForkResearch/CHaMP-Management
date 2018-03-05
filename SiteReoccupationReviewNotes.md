@@ -1,6 +1,9 @@
 ## Site Reoccupation/Transformation
 #### Scenarios
 
+In 2017 the topographic survey validation process was scoped to contain checks for within-season issues and across year review of projections and inconsistencies of files were put on hold until further review of the program. We strongly recommend a programmatic review of projections and reoccupation consistency prior to use of Geomorphic Change Detection metric and data use. 
+
+Here we outline potential sources and outcomes of reoccupation issues that may be a result of 2011-2017 survey procedures, equipment, processing workflow, transformations, and data merging.  
 
 |   |Unprojected FDS/Folder Exists|GCD?|Notes|
 |---|-----------------------------|---|------|
@@ -40,3 +43,5 @@ This procedure would be a useful feature to add to the Site Properties tool, and
 * Check Reoccupation values, backsight checks for store points?  
 * Strange or overlapping features within survey (LW on wrong side of TB, etc)  
 * GCD Results could show drift over the longitudinal survey area.  
+
+[HOME](README.md)
