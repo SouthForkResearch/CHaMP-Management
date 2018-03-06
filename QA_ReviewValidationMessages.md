@@ -9,7 +9,7 @@ Validation Messages will be available weekly from Nov 2017-Dec 15 2017. See belo
 
 **SFR is no longer running metric engines for CHaMP.**   
 
-* 2/28/18 [Final Validation Results (all years and watershedS)](https://docs.google.com/spreadsheets/d/1MnZv0GpK7_gYD2FBjYOKpxqB4HhZlccHsJ5awJyXn30/edit?usp=sharing)  
+* 2/28/18 [Final Validation Results (all years and watersheds)](https://docs.google.com/spreadsheets/d/1MnZv0GpK7_gYD2FBjYOKpxqB4HhZlccHsJ5awJyXn30/edit?usp=sharing)  
 * 1/29/18 [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1QR2M0liivCKliEw_rP1gS1vab69XK9CHZTcUVSxB1Ns/edit?usp=sharing)
 * 1/15/18 [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1MGR_SGYBIrheNzmJ84EasVuEngVDTV_tQ9DWVhd5HUc/edit?usp=sharing)
 * 12/23/17  [Validation Results (all years)](https://docs.google.com/spreadsheets/d/1Eo0bCXDp3_r1rihdP4-2y-RgQQQnqLZk676z113WYLk/edit?usp=sharing)
