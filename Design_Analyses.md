@@ -35,6 +35,9 @@ All information in archived frames is available from the Master Frame File. Arch
 [Visit and Site Strata File (Decoder) 12/15/17](https://www.dropbox.com/s/98g9cv839lbllfo/CHaMP_Visits_Decoder_20171215.xlsx?dl=0)  
 [Final Visit Notes](https://docs.google.com/spreadsheets/d/1OPYQjjWmyjCrZo35BWjmRJP82Widy9DHxiyym-6iqdg/edit?usp=sharing)
 
+## Code  
+Any specific code used to perform GRTS-based analyses of CHaMP data is available in the [GRTS code repository](https://southforkresearch.github.io/CHaMP-Status-and-Trend-Roll-Ups/). Please note this code is only recommended for analysts proficient in R and have a statistical background in GRTS.  
+
 ## Survey Design Analysis Products
 
 The survey design-based analyses were done in two different forms in 2017:    
