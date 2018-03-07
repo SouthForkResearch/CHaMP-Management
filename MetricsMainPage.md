@@ -3,7 +3,8 @@
 ----------
 ## Metric Documentation
 
-[Metric Descriptions](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)
+### [Metric Descriptions](https://github.com/SouthForkResearch/CHaMP_Metrics/wiki)
+An entire wiki is devoted to describing definitions, calculations, changes, and use cases for the metrics.    
 
 ### Metric Data Dictionaries
 Data dictionaries are used to define the metrics that display on champmonitoring.org.  From 2011-Spring 2017 the data dictionaries were used to control static views.  With the completion of the API in spring 2017 the metric views were changed to a dynamic system and metric schemas managed in the CHamP Workbench became the active method for controlling metric views on champmonitoring.org.  
