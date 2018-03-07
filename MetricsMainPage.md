@@ -13,8 +13,8 @@ Data dictionaries are used to define the metrics that display on champmonitoring
 	- [2012 Data Dictionary](https://www.dropbox.com/s/qu38dympm7nt7lq/CHaMPDataDictionary2012.xlsx?dl=0)  
 
 ### Metric Performance (Variance Decomposition)
-The variance decomposition code is stored in the [GRTS analysis Code Repository](https://southforkresearch.github.io/CHaMP-Status-and-Trend-Roll-Ups/). 
-[2011-2017](https://www.dropbox.com/s/fubr0xn118n24dx/CHaMP%20Variance%20Decomposition_All%20CHaMP%20Metrics.jpg?dl=0)
+[Variance Decomposition for 2011-2017](https://www.dropbox.com/s/fubr0xn118n24dx/CHaMP%20Variance%20Decomposition_All%20CHaMP%20Metrics.jpg?dl=0)    
+The variance decomposition code is stored in the [GRTS analysis Code Repository](https://southforkresearch.github.io/CHaMP-Status-and-Trend-Roll-Ups/).     
 
 ### Metric Utility
 Outline of metrics used to support modeling.
