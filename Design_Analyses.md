@@ -40,7 +40,9 @@ Any specific code used to perform GRTS-based analyses of CHaMP data is available
 
 ## Survey Design Analysis Products
 
-The survey design-based analyses were done in two different forms in 2017:    
+The survey design-based analyses were done in two different forms in 2017: 
+* [Status and Trend Summary](https://www.dropbox.com/s/xw2g5ngojuideln/CHaMP%20Metric%20Status%20and%20Trend%202011_2017.pdf?dl=0)
+* [Variance Decomposition](https://www.dropbox.com/s/fubr0xn118n24dx/CHaMP%20Variance%20Decomposition_All%20CHaMP%20Metrics.jpg?dl=0)
 * status and trend estimates based on the 2017 frame and strata for all years [pdf](https://www.dropbox.com/s/ix14rmf95s31grg/2011-2017%20CHaMP%20Status%20and%20Trend_2017Frame.pdf?dl=0), [data](https://www.dropbox.com/s/pild63rwqc9j1tq/2011-2017%20CHaMP%20Status%20and%20Trend_2017SameFrame.csv?dl=0)  
 * status estimates based on the year-specific frames and strata [pdf](https://www.dropbox.com/s/di6iryfe5jhoodv/2011_2017_CHaMP_Status_and_Trend.pdf?dl=0), [data](https://www.dropbox.com/s/9vhi68ozz057tcp/2011_2017_CHaMP_Status_and_Trend.csv?dl=0)  
 
