@@ -2,18 +2,19 @@
 
 ## Status
 
-2017:
-
-1. Repeat sampling designs? 
-2. Reach Types/Conditions?
-3. Reduced sampling in Entiat
-
-
-
 [Design Tracking](https://docs.google.com/spreadsheets/d/1FdUHUPBIRm5FxJNf6RY84oyeMKRgcwPNWDX1B3NQ6Vw/edit?usp=sharing_)
 
 See [Spatially-Balanced Design Analyses](Design_Analyses.md) for information on the follow-up analysis procedures for GRTS-based designs.
 
+## Within-Year Repeat Designs
+The repeat design for CHaMP has changed multiple times since 2011.  
+
+
+|Year|Design Notes|Documents|  
+|2011-2013|10% repeat sampling occurred in addition to standard status and trend sampling|[Repeat Sampling Plan 2011-2013](https://www.dropbox.com/s/1x64luq4f5v6fod/Repeat%20Sampling%20study%20design_2011to2013.pdf?dl=0)
+|2014|No repeat sampling|
+|2015-2016| Repeat sampling integrated into normal rotating panel schedule. General approach was to turn 4 annual sites into rotating panels, which reduced annual sampling by 2 visits|[Repeat Sampling Plan 2015](https://www.dropbox.com/s/xtkxyfljn9a8gux/CHaMP%20Repeat%20Sampling%20Plan%202015_20150518_clean.pdf?dl=0), [Crew Instructions](https://www.dropbox.com/s/7lc22r81ptpdzav/Repeat%20Sampling_2015-2016_instructions%20to%20crew%20supervisors_20160705.pdf?dl=0), [2015 Sampling Summary](https://www.dropbox.com/s/c3yck46fat6tqaf/Repeat%20Sampling_2015_summary_20151113.pdf?dl=0)|    
+|2017| No repeat sampling   |  
 
 
 ## Process
