@@ -1,6 +1,6 @@
 
 
-### [Designs](Designs.md)
+### [Designs and Design-based Analyses](Designs.md)
 
 ### [Protocols and Manuals](ProtocolMainPage.md)
 
@@ -28,8 +28,6 @@
 - What validates
 
 ### [Site Products](CHaMPSiteProducts.md)
-
-### [Spatially-Balanced Design Analyses](Design_Analyses.md)
 
 ### Network Models
 
