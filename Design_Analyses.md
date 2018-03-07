@@ -32,14 +32,14 @@ All information in archived frames is available from the Master Frame File. Arch
 * visits sampled with different protocols, such as "CHaMP Control Network Evaluation" and fish sampling
 7. Import the file created in step 5 into GIS and add X_Albers and Y_Albers attributes.  Calculate coordinates for these attributes using the Albers Equal Area Conic USGS Projection.
 
-[Visit and Site Strata File (Decoder) 12/15/17](https://www.dropbox.com/s/98g9cv839lbllfo/CHaMP_Visits_Decoder_20171215.xlsx?dl=0)
-[Final Visit Notes](https://docs.google.com/spreadsheets/d/1OPYQjjWmyjCrZo35BWjmRJP82Widy9DHxiyym-6iqdg/edit?usp=sharing]
+[Visit and Site Strata File (Decoder) 12/15/17](https://www.dropbox.com/s/98g9cv839lbllfo/CHaMP_Visits_Decoder_20171215.xlsx?dl=0)  
+[Final Visit Notes](https://docs.google.com/spreadsheets/d/1OPYQjjWmyjCrZo35BWjmRJP82Widy9DHxiyym-6iqdg/edit?usp=sharing)
 
 ## Survey Design Analysis Products
 
 The survey design-based analyses were done in two different forms in 2017:    
-* status and trend estimates based on the 2017 frame and strata for all years [pdf](https://www.dropbox.com/s/ix14rmf95s31grg/2011-2017%20CHaMP%20Status%20and%20Trend_2017Frame.pdf?dl=0)[data](https://www.dropbox.com/s/pild63rwqc9j1tq/2011-2017%20CHaMP%20Status%20and%20Trend_2017SameFrame.csv?dl=0)  
-* status estimates based on the year-specific frames and strata [pdf](https://www.dropbox.com/s/di6iryfe5jhoodv/2011_2017_CHaMP_Status_and_Trend.pdf?dl=0)[data](https://www.dropbox.com/s/9vhi68ozz057tcp/2011_2017_CHaMP_Status_and_Trend.csv?dl=0)  
+* status and trend estimates based on the 2017 frame and strata for all years [pdf](https://www.dropbox.com/s/ix14rmf95s31grg/2011-2017%20CHaMP%20Status%20and%20Trend_2017Frame.pdf?dl=0), [data](https://www.dropbox.com/s/pild63rwqc9j1tq/2011-2017%20CHaMP%20Status%20and%20Trend_2017SameFrame.csv?dl=0)  
+* status estimates based on the year-specific frames and strata [pdf](https://www.dropbox.com/s/di6iryfe5jhoodv/2011_2017_CHaMP_Status_and_Trend.pdf?dl=0), [data](https://www.dropbox.com/s/9vhi68ozz057tcp/2011_2017_CHaMP_Status_and_Trend.csv?dl=0)  
 
 The second estimate results are not recommended for trend detection as year-to-year changes in the design and frame are not equally accounted for across the years. Estimates are generated using the spsurvey package available for R.
 
