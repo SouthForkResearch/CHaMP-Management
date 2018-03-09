@@ -23,7 +23,6 @@
 ### [Measurements](MeasurementsMainPage.md)
 
 ### [Metrics](MetricsMainPage.md) 
-- Performance (variance decomposition)
 - Utility-which metrics are used by other models? 
 - What validates
 
